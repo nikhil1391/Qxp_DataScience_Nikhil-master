@@ -1,0 +1,1543 @@
+01/07/19, 9:12 pm - Messages to this group are now secured with end-to-end encryption. Tap for more info.
+04/08/16, 4:59 am - Om Prakash Singh created group "DXX - Bill & Pay Leads 🎭📱"
+01/07/19, 9:12 pm - Vivek Sir Jio added you
+01/07/19, 9:18 pm - Vivek Sir Jio added Ankur Jio
+01/07/19, 9:21 pm - Vivek Sir Jio: Hi all, I've added all of you in DXX group for updating OCS related issues and activities status.
+As per Amit Tripathi Sir instructions
+01/07/19, 9:21 pm - Vivek Sir Jio: Night shift guys pl update on DXX group after completion of activities
+01/07/19, 9:22 pm - Arbvind: Ok
+01/07/19, 9:29 pm - Vivek Sir Jio added Sagnink Jio
+01/07/19, 9:30 pm - Vivek Sir Jio added +91 96899 56477
+01/07/19, 10:02 pm - Kintu Khamar added Mohit Jio, Pradeep Jio, and Rajesh Karnati Jio
+02/07/19, 1:34 am - Gautam Londe: DCWI:1182768||PROD || SAPCC|| to correct circle mapping for few landline numbers.  MH0, MH1
+
+Activity has been completed...
+02/07/19, 1:37 am - Gautam Londe: This message was deleted
+02/07/19, 1:38 am - Gautam Londe: BCR28022
+02/07/19, 1:45 am - Gautam Londe: Clean up schedular has been started on time and completed for all OCS zones.
+02/07/19, 2:08 am - Gautam Londe: Subscriber balance files and subscriber dump has been transferred to RAFM for all OCS zones
+02/07/19, 3:25 am - Gautam Londe: Activation and Allowance purge schedular has been started for all OCS zones except WB0 OCS Zone due to planned activity (BCR28120)
+02/07/19, 4:07 am - Arbvind: Mediation license update activity completed in MH0
+02/07/19, 5:04 am - Arbvind: IOT release activity completed in WBO...
+02/07/19, 5:48 am - Vivek Sir Jio added Prasana Sahstra Budhe
+02/07/19, 10:46 am - Sagnink Jio: Received multiple only block requests for North and south gt retailers for 2k recharge transactions and topuo not received between 7:47 and 8:53 am
+02/07/19, 4:16 pm - Vivek Sir Jio: <Media omitted>
+02/07/19, 4:20 pm - +91 83693 53066: Jiomoney p3 file not received from billdesk due to hardware issue at their end.
+Raising sev 2 for the same.
+Billdesk team is working on resolution
+02/07/19, 8:09 pm - Vivek Sir Jio: No change
+02/07/19, 9:33 pm - Vivek Sir Jio: Tonight's Activities
+03/07/19, 12:27 am - Gautam Londe: Clean up schedular has been started on time and completed for all OCS zones.
+03/07/19, 1:28 am - Arbvind: Dcwi 1182768 to correct circle mapping for fee landline numbers GJO/TS0 completed
+03/07/19, 2:02 am - Gautam Londe: Subscriber balance files and subscriber dump has been transferred to RAFM for all OCS zones
+03/07/19, 4:30 am - Gautam Londe: IOT release activity completed in WB1..
+03/07/19, 4:31 am - Gautam Londe: Activation and Allowance purge schedular has been started for all OCS zones except WB1 OCS Zone due to planned activity (BCR28120)
+03/07/19, 4:33 am - Gautam Londe: To update mediation license file to latest version in KA0.. Activity has been completed (BCR27907)
+03/07/19, 1:58 pm - Vivek Sir Jio added Anagha Narkar
+03/07/19, 2:57 pm - Vivek Sir Jio: <Media omitted>
+03/07/19, 8:05 pm - Vivek Sir Jio: No change
+03/07/19, 9:14 pm - Vivek Sir Jio: <Media omitted>
+03/07/19, 9:15 pm - Vivek Sir Jio: <Media omitted>
+04/07/19, 12:51 am - +91 77188 18595: IDAM Wifi BCR28137 for cassandra datastore migration from Oracle OID is completed and working fine. Under close monitoring
+04/07/19, 1:55 am - Gautam Londe: Clean up schedular has been started on time and completed for all OCS zones.
+04/07/19, 1:56 am - Gautam Londe: Subscriber balance files and subscriber dump has been transferred to RAFM for all OCS zones
+04/07/19, 3:28 am - Arbvind: Sappcc code split release and defect activity completed
+04/07/19, 3:45 am - Gautam Londe: To correct circle mapping for few landline number Activity has been completed (BCR28022)
+04/07/19, 3:50 am - Gautam Londe: Activation and Allowance purge schedular has been started for all OCS zones
+04/07/19, 9:32 am - +91 84339 11548: What is the update of TS0 issue ??
+04/07/19, 9:49 am - +91 84339 11548: Is there anyone active on this group???
+04/07/19, 9:53 am - +91 70210 93007: ji sir
+04/07/19, 9:53 am - +91 70210 93007: We have enabled TCPDUMP to capture sessions request and response at the time of peak
+04/07/19, 9:54 am - +91 70210 93007: In analysis we did not see any increase in error count , also not able to identify reason behind spike
+04/07/19, 9:55 am - +91 70210 93007: TCPDUMP may give us some clue or datapoint for further analysis
+04/07/19, 10:21 am - Vidhi Arora Jio: Rajesh is in tc30. We are looking at tcpdump
+04/07/19, 10:23 am - Vidhi Arora Jio: No service impact reported so far
+04/07/19, 1:56 pm - +91 96899 56477 added Ashutosh Jio, Devesh Jio, Jatinder Jio, Ruchi jio, +91 96307 59699, and +91 99586 60079
+04/07/19, 4:17 pm - Vivek Sir Jio: <Media omitted>
+04/07/19, 4:58 pm - +91 77188 18595: Locobuzz outgoing responses to Twitter are impacted as high response time is received.
+Informed to proxy and NW team and warroom.
+Checked twitter.com is also not opening from mobile.
+04/07/19, 6:21 pm - +91 77188 18595: Issue was resolved at 5:15 pm
+04/07/19, 8:30 pm - Vivek Sir Jio: No change
+04/07/19, 9:15 pm - Vivek Sir Jio: <Media omitted>
+04/07/19, 9:29 pm - Vivek Sir Jio: <Media omitted>
+05/07/19, 1:40 am - Gautam Londe: This message was deleted
+05/07/19, 1:41 am - Gautam Londe: Clean up schedular has been started on time and completed for all OCS zones.
+05/07/19, 3:40 am - Gautam Londe: Subscriber balance files and subscriber dump has been transferred to RAFM for all OCS zones
+05/07/19, 4:05 am - Gautam Londe: Order provisioning of M2M/IoT MH2(BCR 28120) 
+
+To correct circle mapping for few landline number-WB0/MH2(BCR 28022) 
+
+Both activity completed
+05/07/19, 10:12 am - +91 84339 11548: Many Many happy returns of the day Amit Tripathy and Lalit Gupta ! God bless !!
+05/07/19, 10:14 am - Kintu Khamar: Happy Birthday Amit and Lalit.....🍰🎂
+05/07/19, 10:17 am - Prasant Sir Whatsup: Happy birthday Amit sir 💐🎂 Lalit sir 🎂💐🎉
+05/07/19, 10:18 am - Mohit Jio: Happiest birthday Amit sir n Lalit sir..!!!!
+05/07/19, 10:19 am - Kuber Sir Jio: Happy birthday Amit and Lalit 🎂🎂🍾🍾🍾🍾
+05/07/19, 10:20 am - +91 77382 83796: Happy birthday Amit n Lalit. Enjoy the day.💐🌷🎂
+05/07/19, 10:20 am - Amit Tripathi: Thx Manish Sir & all for warm wishes.
+05/07/19, 10:23 am - Abhishek D Singh: Happy birthday Amit Sir & Lalit Sir 😊🎂🎂
+05/07/19, 10:25 am - +91 99583 84567: Happy Bday Amit Sir & Lalit Sir..! 🎁🎉🎁
+05/07/19, 10:27 am - Sagar Gulhanee Jio: Wish you very Happy Birthday dear Amit Bhai and Lalit Bhai 💐🎂! God bless you
+05/07/19, 10:27 am - Vivek Sir Jio: Happy Birthday Amit Sir 🎂💐🌹✨💫🎂🎁
+05/07/19, 10:28 am - Vivek Sir Jio: Happy Birthday 🎂 Lalit Bhai💫✨🌹💐🎁🎂
+05/07/19, 10:38 am - +91 77188 18595: Happy Birthday Amit and Lalit 🎂🍻🎂🍻
+05/07/19, 10:39 am - Ruchi jio: Happy Birthday Amit Sir & Lalit Sir...🎂😊
+05/07/19, 10:39 am - +91 75079 13000: Thanks Manish Sir and all for good wishes ..🙏
+05/07/19, 10:40 am - Pradeep Jio: Happy B'day Amit Sir n Lalit Bhai 🥂🍻🎂
+05/07/19, 10:42 am - +91 75079 13000: Janamdin Mubarak Ho..Amit Bhai and Sumit Bhai..🍰🍰🎂
+05/07/19, 10:44 am - Devanand rathod: Happy birthday Amit Sir 
+Happy birthday Lalit bhai
+05/07/19, 10:47 am - Mrudula Gadre: Happy Birthday Amit sir and Lalit sir 🎊🎉
+05/07/19, 10:56 am - +91 83693 53066: Happy Birthday Amit,Sumit and Lalit🙂
+05/07/19, 10:58 am - Rupesh Mote: Happiest birthday Amit Sir .
+Happiest birthday Lalit Bhai .
+Happiest birthday Sumit .
+
+Have a great day !! Cheers 🎂🥳
+05/07/19, 10:58 am - Anand Sir New Jio: Happy Birthday Amit and Lalit💐
+05/07/19, 11:07 am - +91 96899 56477: Happy Birthday Amit Sir, Sumit Sir, Lalit Sir... 🎉🎊🎁 🎂
+05/07/19, 11:17 am - +91 99676 53343: Happy birthday Amit sir and Gupta ji
+05/07/19, 12:10 pm - Vivek Sir Jio: <Media omitted>
+05/07/19, 12:10 pm - Vivek Sir Jio: Bill cycle status
+05/07/19, 2:54 pm - Nagesh Dolaskar Jio: Happy birthday Amit Sir & Lalit Sir 😊🎂🎂🎂
+05/07/19, 2:57 pm - Arbvind: Happy birthday AMit sir...
+05/07/19, 3:00 pm - Gautam Londe: Happy birthday Amit Sir & Lalit Sir 🎂🎂🎂
+05/07/19, 3:40 pm - Nikita Bullani: Happy Birthday Amit Sir and Lalit Sir🎂😊
+05/07/19, 6:58 pm - +91 83693 53066: JioMoney P3 file not received from Billdesk, due to sftp issue at their end.
+Sev 2 raised
+05/07/19, 8:32 pm - Vivek Sir Jio: <Media omitted>
+05/07/19, 9:50 pm - Vivek Sir Jio: <Media omitted>
+05/07/19, 9:50 pm - Vivek Sir Jio: <Media omitted>
+05/07/19, 9:50 pm - Vivek Sir Jio: Tonight's Activities
+06/07/19, 2:35 am - Gautam Londe: Subscriber balance files and subscriber dump has been transferred to RAFM for all OCS zones
+06/07/19, 3:18 am - Gautam Londe: <Media omitted>
+06/07/19, 3:39 am - Gautam Londe: Clean up schedular has been started on time and completed for all OCS zones.
+07/07/19, 2:16 am - Gautam Londe: Clean up schedular has been started on time and completed for all OCS zones.
+07/07/19, 2:16 am - Gautam Londe: Subscriber balance files and subscriber dump has been transferred to RAFM for all OCS zones
+07/07/19, 6:52 am - Gautam Londe: Activation and Allowance purge schedular has been completed for all OCS zones
+07/07/19, 1:04 pm - +91 77188 18595: Fttx customer onboarding OTP not received issue reported. checking with NOC for sample numbers to find any network issue.
+Major cases are for Airtel and Vodafone.
+07/07/19, 2:03 pm - +91 77188 18595: Issue observed at Airtel end and VVMNOC forwarded the case to Circle team for taking up with Airtel.
+08/07/19, 1:50 am - Akshay Sarnaike Jio: Subscriber balance files and subscriber dump has been transferred to RAFM for all OCS zones
+08/07/19, 1:55 am - Akshay Sarnaike Jio: Clean up schedular completed for all OCS zones.
+08/07/19, 5:24 am - Akshay Sarnaike Jio: Activation and Allowance purge schedular has been completed for all OCS zones
+08/07/19, 7:44 am - Kuber Sir Jio: <Media omitted>
+08/07/19, 7:47 am - +91 77188 18595: Joined
+08/07/19, 5:05 pm - Vivek Sir Jio: <Media omitted>
+08/07/19, 9:29 pm - Vivek Sir Jio: <Media omitted>
+09/07/19, 1:41 am - Akshay Sarnaike Jio: Subscriber balance files and subscriber dump has been transferred to RAFM for all OCS zones
+09/07/19, 2:19 am - +91 96899 56477: Transaction going in failure with Unmapped Error for MH & MP Circle.
+Total failure till now is 81
+09/07/19, 2:23 am - +91 96899 56477: Bridge Open with ID: 597600
+09/07/19, 2:44 am - Akshay Sarnaike Jio: Clean up schedular completed for all OCS zones.
+09/07/19, 5:33 am - Akshay Sarnaike Jio: Activation and Allowance purge schedular has been completed for all OCS zones
+09/07/19, 1:22 pm - Vidhi Arora Jio: IR not working 
+Arnish Shah +91 91378 76066
+09/07/19, 1:22 pm - Vidhi Arora Jio: Pl check
+09/07/19, 1:27 pm - Vivek Sir Jio: Yes sir checking the same
+09/07/19, 1:38 pm - Nikita Bullani: Simulation is working for available tadig in pack...this number does not have monetary balance so if it latched to some other operator or CC it will get failed
+09/07/19, 1:39 pm - Nikita Bullani: Sending to ild team
+09/07/19, 2:51 pm - Vivek Sir Jio: <Media omitted>
+09/07/19, 7:08 pm - Vivek Sir Jio: <Media omitted>
+09/07/19, 8:58 pm - Vivek Sir Jio: BCR28486 is postponed tonight.
+10/07/19, 1:33 am - Akshay Sarnaike Jio: Subscriber balance files and subscriber dump has been transferred to RAFM for all OCS zones
+10/07/19, 1:55 am - Akshay Sarnaike Jio: Clean up schedular completed for all OCS zones.
+10/07/19, 6:35 am - Akshay Sarnaike Jio: Activation and Allowance purge schedular has been completed for all OCS zones
+10/07/19, 2:48 pm - +91 77188 18595: ISO TOPS: EA (I/U) IN RJIL (Awaited) S2 13:54 Hrs.
+
+PRB: High CPU utilization observed for one out of two Locobuzz DB server.
+
+IMP: Currently no business impact however it can lead to performance issues.
+
+UPD: TOPS Locobuzz team investigating the issue along with DB team and Vendor.
+
+Bridge Details: 022-79687555, Conference ID: 597600.
+
+NU: 16:30 Hrs.
+10/07/19, 4:23 pm - Vivek Sir Jio: <Media omitted>
+10/07/19, 4:43 pm - +91 77188 18595: ISO TOPS: EA (I/U) IN RJIL (Awaited) S2 16:07 Hrs.
+
+PRB: Few orders failing due to timeout between TIBCO and IDAM.
+
+IMP: Order Provisioning delayed at IDAM.
+
+UPD: Issue intermittent. TOPS IDAM, TIBCO and IDC Network team investigating the issue.
+
+Bridge Details: 022-79687555, Conference ID: 597600.
+
+NU: 18:30 Hrs.
+10/07/19, 4:47 pm - +91 77188 18595: SEV2 raised daily approx 10 orders are failing due timeout between TIBCO and IDAM and manual intervention is required to clear the orders.
+10/07/19, 9:42 pm - Vivek Sir Jio: <Media omitted>
+10/07/19, 9:42 pm - Vivek Sir Jio: <Media omitted>
+10/07/19, 9:42 pm - Vivek Sir Jio: Tonight's Activities
+10/07/19, 10:13 pm - Amit Tripathi: This message was deleted
+11/07/19, 1:28 am - Suraj Jio New: BCR27907 product license key updating for MZSOA has been completed.. basic sanity looks ok
+11/07/19, 1:51 am - Nikhil😎: Subscriber balance files and subscriber dump has been transferred to RAFM for all OCS zones
+11/07/19, 1:55 am - +91 99583 84567: BCR28486, whitelist PCRF FQDN of Kolkata in DL0, GJ0, UP0 has been completed. Basic sanity done and looks ok. No abnormality found.
+11/07/19, 2:16 am - Nikhil😎: Clean up schedular completed for all OCS zones.
+11/07/19, 5:40 am - Nikhil😎: Activation and Allowance purge schedular has been completed for all OCS zones
+11/07/19, 3:53 pm - Vivek Sir Jio: <Media omitted>
+11/07/19, 8:16 pm - Vivek Sir Jio: UP0 OCS : Continues Timeout occurred
+11/07/19, 8:19 pm - Kuber Sir Jio: <Media omitted>
+11/07/19, 8:20 pm - Kuber Sir Jio: Now seems stable
+11/07/19, 8:20 pm - Vivek Sir Jio: There was issue in power dg starting was problem now ok
+11/07/19, 8:20 pm - Vivek Sir Jio: Power restored. Tempature is now normal.. Timeout stopped.
+11/07/19, 8:20 pm - Vivek Sir Jio: Raising severity
+11/07/19, 8:21 pm - +91 77382 83796: Approx 619 transaction in pending status in ESTEL TPA instance
+11/07/19, 8:22 pm - +91 84339 11548: Get them repushed ASAP
+11/07/19, 8:22 pm - +91 77382 83796: Send the details to TIBCO for respush
+11/07/19, 9:05 pm - Vivek Sir Jio: <Media omitted>
+11/07/19, 9:12 pm - Vivek Sir Jio: <Media omitted>
+11/07/19, 9:58 pm - Vivek Sir Jio: <Media omitted>
+12/07/19, 1:12 am - +91 77188 18595: <Media omitted>
+12/07/19, 1:54 am - +91 77188 18595: <Media omitted>
+12/07/19, 1:55 am - Suraj Jio New: BCR28936 TO TEST PERSISTENT /NON PERSISTENT MESSAGE TYPE in replica has been completed
+12/07/19, 2:16 am - Nikhil😎: Subscriber balance files and subscriber dump has been transferred to RAFM for all OCS zones
+12/07/19, 3:35 am - +91 96899 56477: Recharges are failing with Unmapped Error for MH Circle.
+Total faikure till now : 37
+12/07/19, 3:45 am - Nikhil😎: Clean up schedular completed for all OCS zones.
+12/07/19, 4:50 am - +91 99583 84567: BCR28120, order provisioning of M2M/IoT device or sync of IoT in GJ0, has been completed. Basic sanity has been done and no issue observed.
+12/07/19, 6:22 am - Nikhil😎: Activation and Allowance purge schedular has been completed for all OCS zones
+13/07/19, 2:02 am - +91 99583 84567: BCR28850, whitelist PCRF FQDN of Kolkata in MH0, MH1, MH2 has been completed. Basic sanity done and looks ok. No abnormality found.
+13/07/19, 2:03 am - Vivek Sir Jio: This message was deleted
+13/07/19, 2:10 am - Suraj Jio New: BCR27907 update license  to latest version in Replica RJML has been completed. Basic sanity done and looks OK.
+13/07/19, 2:27 am - +91 77188 18595: Alerts received for notification failures.
+Checked one of the NE Server is not able to connect to EMAIL SMTP server.
+Informed warroom, Unix , NW team and raised sev2
+13/07/19, 3:00 am - +91 77188 18595: To avoid Failures email traffic migrated to IDC SMTP server from BSS SMTP SERVER.
+13/07/19, 3:16 am - Nikhil😎: Observed  Inter Instace Communication Errors in MH0 zone
+13/07/19, 3:20 am - Nikhil😎: Observed  High Full GC on rater#19 with max time 27 sec in  MH0 OCS Zone
+13/07/19, 3:51 am - Nikhil😎: Subscriber balance files and subscriber dump has been transferred to RAFM for all OCS zones
+13/07/19, 3:51 am - Nikhil😎: Clean up schedular completed for all OCS zones.
+13/07/19, 5:25 am - +91 99583 84567: BCR28120, order provisioning of M2M/IoT device or sync of IoT in TS0, has been completed. Basic sanity has been done and no issue observed.
+13/07/19, 10:12 am - +91 77188 18595: Issue identified at LB end and fixed. Traffic migrated to BSS SMTP Server and working fine
+14/07/19, 1:42 am - mayur pawar jio: Subscriber balance files and subscriber dump has been transferred to RAFM for all OCS zones
+14/07/19, 3:27 am - mayur pawar jio: Clean up schedular completed for all OCS zones.
+14/07/19, 4:04 am - mayur pawar jio: Timeout observed in MH0
+14/07/19, 4:28 am - mayur pawar jio: MH0 :- 
+Timeout with max count 36 on Rater#19 .
+Inter instance communication error with max count 132 on Dispatcher#5 
+@ 03:54:15 AM
+14/07/19, 6:19 am - mayur pawar jio: Activation and Allowance purge schedular has been completed for all OCS zones
+14/07/19, 11:18 am - +91 77188 18595: Sev2 raised with following details:
+
+Problem statement: 
+One out of two Loco buzz server went down.
+Impact : No business impact as the services running through alternate node.
+Current status :
+Server is up and running since 11:00 Hrs post Tops Windows team has restarted the Impacted server. 
+Windows team has raised a ticket with HPE support team for further analysis.
+15/07/19, 1:46 am - mayur pawar jio: Subscriber balance files and subscriber dump has been transferred to RAFM for all OCS zones
+15/07/19, 1:50 am - mayur pawar jio: Due to activity BSR467215 & BCR28801 :- Timeout & Inter Instance communication error observed in *MH1 & WB1*
+15/07/19, 3:53 am - Atul Gaikwad Jio: BCR28812(Enterprise release for Production) completed for KA0 Prod MZ,SAPCC and RJML Prod MZ
+15/07/19, 3:53 am - Atul Gaikwad Jio: Basic Sanity Done and found Ok
+15/07/19, 5:40 am - Rupesh Mote: Thanks ok
+15/07/19, 6:07 am - Vidhi Arora Jio: Ok
+15/07/19, 7:09 am - mayur pawar jio: This message was deleted
+15/07/19, 7:09 am - mayur pawar jio: Activation and Allowance purge schedular has been completed for all OCS zones
+15/07/19, 7:19 am - Kuber Sir Jio: <Media omitted>
+15/07/19, 4:35 pm - Vivek Sir Jio: <Media omitted>
+15/07/19, 8:38 pm - Vivek Sir Jio: WB1 OCS : Timeout occurred
+Checking with Storage team
+15/07/19, 8:40 pm - Vivek Sir Jio: Bridge Id : 597600
+15/07/19, 8:46 pm - Vivek Sir Jio: One path out of 8 going in degrade mode on all 4 db nodes. One SVC path is down
+15/07/19, 8:47 pm - Vivek Sir Jio: Failures has stopped,pending orders are been repushed
+15/07/19, 8:47 pm - Vivek Sir Jio: Also received Error in errpt wb1bd01/02
+15/07/19, 8:57 pm - +91 96899 56477: Total 553 transaction impacted from all zones of Estel. 
+Tibco team is repushing the same
+15/07/19, 10:10 pm - Vivek Sir Jio: <Media omitted>
+16/07/19, 3:02 am - mayur pawar jio: Subscriber balance files and subscriber dump has been transferred to RAFM for all OCS zones
+16/07/19, 3:02 am - mayur pawar jio: Clean up schedular completed for all OCS zones.
+16/07/19, 3:57 am - Atul Gaikwad Jio: Change Activity -BCR28995 || Message type Persistent/Non-Persistent for JMS Notification  WFs is Completed in MZ GJ0 Prod.
+16/07/19, 3:58 am - Atul Gaikwad Jio: Basic Sanity Done and Found Ok
+16/07/19, 2:47 pm - Vivek Sir Jio: <Media omitted>
+16/07/19, 9:34 pm - Vivek Sir Jio: <Media omitted>
+16/07/19, 9:34 pm - Vivek Sir Jio: <Media omitted>
+16/07/19, 9:34 pm - Vivek Sir Jio: Tonight's Activities
+16/07/19, 11:28 pm - Abhishek D Singh: Active mediation DCWI's 1181984 & 1183094 executed in Replica.both are  part of BCR28954 (Multiple features movement to replica.Master RR:1186394)
+17/07/19, 1:31 am - Nagesh Dolaskar Jio: Subscriber balance files and subscriber dump has been transferred to RAFM for all OCS zones
+17/07/19, 1:31 am - Nagesh Dolaskar Jio: Clean up schedular completed for all OCS zones.
+17/07/19, 3:45 am - +91 99586 60079: Estel DCWI's 1181576 and 1181437 executed in RJIL and RJML replica. Both are part of BCR28954-(Multiple features movement to replica   Master RR- 1186394)
+17/07/19, 3:56 am - Abhishek D Singh: BCR28120, order provisioning of M2M/IoT device or sync of IoT in TS1, has been completed. Basic sanity done and not found any issue.
+17/07/19, 4:02 am - Abhishek D Singh: BCR28691, Replica defect fix release for RJIL FLOW -error observed in system logs for refill workflow has been completed in KA0 MZ. Sanity done and found ok
+17/07/19, 1:09 pm - Kintu Khamar: <Media omitted>
+17/07/19, 1:09 pm - Kintu Khamar: <Media omitted>
+17/07/19, 1:12 pm - Ankur Jio: Congratulation sir 🎈💐
+17/07/19, 1:13 pm - Sagar Gulhanee Jio: Congratulations Team 👏🏻
+17/07/19, 1:14 pm - +91 96899 56477: Congratulations Team... 🎉🎊✌🏻
+17/07/19, 1:15 pm - +91 99583 84567: Congratulations Team..! 👍🏽
+17/07/19, 1:16 pm - +91 99676 53343: Congratulations
+17/07/19, 1:20 pm - Vivek Sir Jio: Congratulations👍🌟✨
+17/07/19, 1:20 pm - Vivek Sir Jio: 🏆✅
+17/07/19, 1:22 pm - Nagesh Dolaskar Jio: 😎👍🏻
+17/07/19, 1:23 pm - Prasant Sir Whatsup: Congratulations Team💐🎉👍
+17/07/19, 1:24 pm - Shashank Palekar Jio: Congratulations to the whole team 🤟🏻
+17/07/19, 1:27 pm - Amit Tripathi: Congratulations Kintu, Anand nd Team💐💐
+17/07/19, 1:28 pm - Mrudula Gadre: Congratulations 😃🎊🎉
+17/07/19, 1:30 pm - mayur pawar jio: 🤘congratulations
+17/07/19, 1:36 pm - Vishal Patel Jio: Congratulations 💐💐💐👍🏻👍🏻
+17/07/19, 1:40 pm - +91 77382 83796: Kudos Tops Mediation Team.👍🏻
+17/07/19, 1:42 pm - +91 77188 18595: Congrats 👏👏👏
+17/07/19, 1:44 pm - Anand Sir New Jio: Congratulations💐🙏
+Keep it up👍
+17/07/19, 3:18 pm - Vidhi Arora Jio: This vip number is continously getting data session notifications
+17/07/19, 3:18 pm - Vidhi Arora Jio: Recharged with rs 19 but doesn't stop
+17/07/19, 3:18 pm - Vidhi Arora Jio: +917021666999
+17/07/19, 3:43 pm - +91 70210 93007: Data session or EOCN for data session
+17/07/19, 3:44 pm - +91 70210 93007: For prepaid EOCN is as per VIP prepaid plan construct
+17/07/19, 4:34 pm - Vivek Sir Jio: <Media omitted>
+17/07/19, 5:36 pm - Vidhi Arora Jio: Good work team
+17/07/19, 5:42 pm - Abhishek D Singh: Congratulations 😊
+17/07/19, 5:50 pm - Nikhil Sir Jio: Congratulations 👍
+17/07/19, 7:38 pm - Vivek Sir Jio: <Media omitted>
+17/07/19, 7:38 pm - Vivek Sir Jio: <Media omitted>
+17/07/19, 7:38 pm - Vivek Sir Jio: Tonight's Activities
+17/07/19, 9:44 pm - Vivek Sir Jio: <Media omitted>
+18/07/19, 2:32 am - Prasana Sahstra Budhe: BCR29174, DCWI 1187296 || PROD || SAPCC || Configuration of new BNG IPs in WB0 OCS zone , has been completed.Basic sanity is done. No issue observed.
+18/07/19, 4:18 am - Nagesh Dolaskar Jio: Subscriber balance files and subscriber dump has been transferred to RAFM for all OCS zones
+18/07/19, 4:18 am - Nagesh Dolaskar Jio: Clean up schedular completed for all OCS zones.
+18/07/19, 4:19 am - Prasana Sahstra Budhe: BCR28120, order provisioning of M2M/IoT device or sync of IoT in UP0, has been completed. Basic sanity done and not found any issue.
+18/07/19, 8:07 am - Nagesh Dolaskar Jio: Activation and Allowance purge schedular has been completed for all OCS zones
+18/07/19, 8:31 am - +91 83693 53066: New jio drive activation getting failed due to connectivity issue
+Raising sev.
+18/07/19, 8:54 am - +91 83693 53066: No failures observed after 8:32 
+Under observation.failures repushed.
+18/07/19, 4:17 pm - Vivek Sir Jio: <Media omitted>
+18/07/19, 6:39 pm - Vivek Sir Jio: TS1 timeout issue
+Raising severity
+18/07/19, 6:40 pm - Kuber Sir Jio: <Media omitted>
+18/07/19, 6:45 pm - Vivek Sir Jio: One SVC node has been warm restarted
+18/07/19, 9:08 pm - Vivek Sir Jio: <Media omitted>
+18/07/19, 9:08 pm - Vivek Sir Jio: <Media omitted>
+18/07/19, 9:08 pm - Vivek Sir Jio: Tonight's Activities
+18/07/19, 9:17 pm - Vivek Sir Jio: <Media omitted>
+19/07/19, 12:31 am - Abhishek D Singh: BCR29174, DCWI 1187296 || PROD || SAPCC || Configuration of new BNG IPs in TS0 OCS zone , has been completed.Basic sanity  done. No issue observed.
+19/07/19, 1:33 am - Nagesh Dolaskar Jio: Clean up schedular completed for all OCS zones.
+19/07/19, 1:35 am - Nagesh Dolaskar Jio: Subscriber balance files and subscriber dump has been transferred to RAFM for all OCS zones
+19/07/19, 3:27 am - Abhishek D Singh: BCR28691, Replica defect fix release for RJIL FLOW -error observed in system logs for refill workflow has been completed in MH1 MZ. Sanity done and found ok.
+19/07/19, 3:59 am - Prasana Sahstra Budhe: BCR29125, order provisioning of M2M/IoT device or sync of IoT in DL0, has been completed. Basic sanity done and did not find any issue.
+19/07/19, 6:16 am - +91 83693 53066: SE VAS db upgrade is still gng on as confirmed by dba team .as it extends the time we are raising the sev .on call with change team
+19/07/19, 7:19 am - Vidhi Arora Jio: What is the status of SE Vas dB
+19/07/19, 7:20 am - +91 83693 53066: Sanity gng at db end
+19/07/19, 7:20 am - +91 83693 53066: Db upgrade completed
+19/07/19, 7:25 am - +91 83693 53066: Starting the application
+19/07/19, 7:28 am - Vidhi Arora Jio: Ok
+19/07/19, 7:49 am - +91 83693 53066: App started successfully . requests arw getting completed at tibco and cg end confirmed on call.
+19/07/19, 4:18 pm - +91 83693 53066: Sev2 raised due gg replication issue in misdb of VAS.
+Dba team is working on it.
+Bim9473755
+19/07/19, 5:11 pm - Vivek Sir Jio: <Media omitted>
+19/07/19, 9:33 pm - Vivek Sir Jio: <Media omitted>
+19/07/19, 9:33 pm - Vivek Sir Jio: <Media omitted>
+19/07/19, 10:12 pm - Prasant Sir Whatsup: BCR29374 has been cancelled.
+20/07/19, 1:32 am - Gautam Londe: Clean up schedular completed for all OCS zones.
+20/07/19, 1:45 am - Prasana Sahstra Budhe: BCR29174, DCWI 1187296 || PROD || SAPCC || Configuration of new BNG IPs in MH2, WB1 & UP0 OCS zone , has been completed.Basic sanity  done. No issue observed.
+20/07/19, 1:47 am - Gautam Londe: Subscriber balance files and subscriber dump has been transferred to RAFM for all OCS zones
+20/07/19, 4:16 am - Prasana Sahstra Budhe: BCR28691, Replica defect fix release for RJIL FLOW -error observed in system logs for refill workflow has been completed in WB0 and WB1 MZ. Sanity done and no issue observed.
+20/07/19, 7:21 am - Gautam Londe: Activation and Allowance purge schedular has been completed for all OCS zones
+20/07/19, 11:51 am - +91 83693 53066: Dip observe in channel id 94 and 25 .on call with war room .
+20/07/19, 12:47 pm - Sumeet Jio: Continuous Timeout observed on WB1 zone on rater#2
+DB response is underthreshold
+20/07/19, 1:06 pm - Sumeet Jio: Have locked single subscriber was having sessions near about 420
+20/07/19, 1:07 pm - +91 83693 53066: No issues observed since 12:12 Hrs, teams are investigating the root cause.
+20/07/19, 1:07 pm - Sumeet Jio: Post locking subscriber timeout has been stopped
+20/07/19, 2:11 pm - +91 83693 53066: Again issue resurfaced
+20/07/19, 2:11 pm - +91 83693 53066: On call with war room tibco noc team
+21/07/19, 1:42 am - mayur pawar jio: *Clean up schedular* completed for all OCS zones.
+21/07/19, 2:07 am - mayur pawar jio: *Subscriber balance* and *subscriber dump* files has been transferred to RAFM for all OCS zones
+21/07/19, 7:44 am - mayur pawar jio: *Activation and Allowance purge*  schedular has been completed for all OCS zones
+22/07/19, 12:47 am - Prasana Sahstra Budhe: Timeout and interinstance observed in MH1 and WB1 due to planned activity of AIX and VIOS adapter upgrade on PROD DB SAPCC (BCR28801) @ 12:29:30 AM
+22/07/19, 1:42 am - Nagesh Dolaskar Jio: Clean up schedular completed for all OCS zones.
+22/07/19, 1:43 am - Nagesh Dolaskar Jio: Subscriber balance files and subscriber dump has been transferred to RAFM for all OCS zones
+22/07/19, 4:24 pm - Vivek Sir Jio: <Media omitted>
+22/07/19, 9:45 pm - Vivek Sir Jio: <Media omitted>
+22/07/19, 9:45 pm - Vivek Sir Jio: <Media omitted>
+22/07/19, 9:46 pm - Vivek Sir Jio: Tonight's Activities
+23/07/19, 1:33 am - Nagesh Dolaskar Jio: Clean up schedular completed for all OCS zones.
+23/07/19, 1:41 am - Nagesh Dolaskar Jio: Subscriber balance files and subscriber dump has been transferred to RAFM for all OCS zones
+23/07/19, 3:45 am - Suraj Jio New: BCR29174, Configuration of new BNG IPs to be added in OCS has been completed in TS1 and MH0 zone, basic sanity done and looks OK.
+23/07/19, 3:48 am - Suraj Jio New: BCR28691, Defect fix for Error observed in system logs for Refill has been completed in UP0 and DL0 zone, basic sanity done and looks all OK.
+23/07/19, 3:48 am - Suraj Jio New: 8k load has been started in VTO zone.
+23/07/19, 4:04 am - Om Prakash Singh: RS1 DB down team is checking along with war room bridge I'd 597600
+23/07/19, 4:33 am - Om Prakash Singh: ISO TOPS: EA (I/U) IN RJIL (Awaited) S2 04:25 Hrs.
+
+PRB: RS1 Database node went down.
+
+IMP: Billing, Invocing, dunning and payment posting delayed.
+
+UPD: TOPS DBA and Unix team investigating the issue.
+
+Bridge ID: 022 - 79687555, Conf ID: 597600.
+
+NU: 06:30 Hrs.
+23/07/19, 4:57 am - +91 77188 18595: ISO TOPS: EA (I/U) RJIL (Awaited) S2 03:30 Hrs.
+
+PRB: Users unable to login WIFI admin portal between 02:05 Hrs. to 02:40 Hrs.
+
+IMP: Users unable to use Wi-Fi Services during impacted window.
+
+UPD: Users are able to login since 02:40 Hrs. TOPS WIFI team sharing logs with OIAM team to identify the root cause. Incident kept under observation.
+
+NU: 10:00 Hrs.
+23/07/19, 7:26 am - Om Prakash Singh: System up apps working file ( bit loading, failure payment posting, billing invoicing def rev  ,order creation all is working fine )
+23/07/19, 6:54 pm - Vidhi Arora Jio: Selected applications for Neywork Architecture review for Applications audit,
+
+1. In10s CAF management - Nilay M Shah
+2. Jio POS - Nilay M Shah
+3. Comviva Subscription Engine - 
+4. Jio.com - Shubharangshu Kar
+5. Layer 7 SECO General Trade - Vidhi Aurora
+6. MPOS - Nilay M Shah
+7. OIAM - Ashish Kr Pandey
+8. Passive Mediation - Vidhi Aurora
+9. Jio CDN - Dhruva Chaudhury
+10. Websense Proxy - Rajiv Bahl
+23/07/19, 9:21 pm - Vivek Sir Jio: <Media omitted>
+23/07/19, 9:21 pm - Vivek Sir Jio: <Media omitted>
+23/07/19, 9:29 pm - Vivek Sir Jio: <Media omitted>
+24/07/19, 1:28 am - Nagesh Dolaskar Jio: Subscriber balance files and subscriber dump has been transferred to RAFM for all OCS zones
+24/07/19, 1:29 am - Nagesh Dolaskar Jio: Clean up schedular completed for all OCS zones.
+24/07/19, 9:33 pm - Vivek Sir Jio: <Media omitted>
+24/07/19, 9:33 pm - Vivek Sir Jio: <Media omitted>
+24/07/19, 9:34 pm - Vivek Sir Jio: Tonight's Activities
+25/07/19, 1:27 am - Devesh Jio: 1100+ transactions failed in TPA due to communication error
+25/07/19, 1:28 am - Suraj Jio New: 87555
+25/07/19, 1:28 am - Suraj Jio New: 597600 conf id
+25/07/19, 1:28 am - +91 77188 18595: Notifications connectivity to smsc is impacted
+25/07/19, 1:30 am - Nagesh Dolaskar Jio: Wily graphs (cc and MZ) went blank for MH0 zone
+Also recharge and bal enq failures observing
+As well as connectivity loss in system logs for MH0
+25/07/19, 1:50 am - +91 77188 18595: Connectivity restored
+25/07/19, 1:50 am - +91 77188 18595: Issue was due to DCWAN IOS 6.5.3 upgrading activity by FMIP team: C1567712
+25/07/19, 1:57 am - Nagesh Dolaskar Jio: Clean up schedular completed for all OCS zones.
+25/07/19, 2:12 am - Nagesh Dolaskar Jio: Subscriber balance files and subscriber dump has been transferred to RAFM for all OCS zones
+25/07/19, 3:45 am - Suraj Jio New: BCR29174, Configuration of new BNG IPs to be added in OCS has been completed in DL0 and UP0 zone, basic sanity done and looks OK.
+
+
+BCR29517, Defect fix for Error observed in system logs for Refill has been completed in TS0 and MH2 zone, basic sanity done and looks all OK.
+25/07/19, 12:27 pm - +91 77188 18595: JM IDAM TIMEOUTS are observed informed middleware to take rolling restart
+25/07/19, 12:28 pm - +91 77188 18595: Timeouts are observed after bulk termination is run from upstream systems
+25/07/19, 12:37 pm - +91 77188 18595: Bridge id 24867262
+25/07/19, 1:06 pm - +91 77188 18595: Services resumed
+25/07/19, 1:16 pm - +91 77188 18595: Error observed at app was connection pool exhausted.
+Need to increase the jdbc connection pool
+25/07/19, 8:22 pm - Vidhi Arora Jio: *IDR response status*
+
+1. SAP CC - *Overdue*
+2. SAP CI - *received*
+3. SAP ICM - *received*
+4. ESTEL - *Overdue*
+5. Hadoop FMS - *received*
+6. IDC Netbackup - *received*
+7. Active MZ - *Overdue*
+8. Novelvox - *received*
+9. Passive MZ - *Overdue*
+10. SMS Campaign Manager - *received*
+25/07/19, 9:21 pm - Vivek Sir Jio: <Media omitted>
+26/07/19, 1:49 am - mayur pawar jio: *Clean up schedular* completed for all OCS zones.
+26/07/19, 4:01 am - mayur pawar jio: *Subscriber balance* files and *subscriber dump* has been transferred to RAFM for all OCS zones
+26/07/19, 4:16 am - Amit Jio Cc: <Media omitted>
+26/07/19, 4:16 am - Amit Jio Cc: Basic sanity done and found OK.
+26/07/19, 9:52 am - Vidhi Arora Jio: App leads
+
+What is the status of your monthly toaster?
+26/07/19, 4:31 pm - Vivek Sir Jio: <Media omitted>
+26/07/19, 9:36 pm - Vivek Sir Jio: <Media omitted>
+27/07/19, 1:34 am - mayur pawar jio: *Clean up schedular* completed for all OCS zones.
+
+
+*Subscriber balance* files and *subscriber dump* has been transferred to RAFM for all OCS zones
+27/07/19, 4:13 am - Amit Jio Cc: This message was deleted
+27/07/19, 4:13 am - Amit Jio Cc: This message was deleted
+27/07/19, 4:14 am - Amit Jio Cc: This message was deleted
+27/07/19, 4:14 am - Amit Jio Cc: This message was deleted
+27/07/19, 4:16 am - Amit Jio Cc: This message was deleted
+27/07/19, 4:18 am - Amit Jio Cc: DCWI done for SNR issue in WB1
+27/07/19, 4:18 am - Amit Jio Cc: <Media omitted>
+27/07/19, 4:19 am - Amit Jio Cc: All above activities has been completed successfully. 
+Basic sanity done and found Ok.
+27/07/19, 4:19 am - Amit Jio Cc: System is kept under observation.
+27/07/19, 7:30 am - mayur pawar jio: *Activation and Allowance purge schedular* has been completed for all OCS zones
+27/07/19, 12:09 pm - Prasana Sahstra Budhe: Timeout with max count 850 on rater#18 and DB response time of 30 seconds on rater#18 and with high GC duration..we are checking with basis team and DBA team.
+28/07/19, 5:03 am - mayur pawar jio: *Clean up schedular* completed for all OCS zones.
+
+*Subscriber balance* files and *subscriber dump* has been transferred to RAFM for all OCS zones
+28/07/19, 6:51 am - mayur pawar jio: *Activation and Allowance purge*  schedular has been completed for all OCS zones
+29/07/19, 12:43 am - Nikhil😎: Timeout and  Inter-instances Communication Observed in MH2   and GJ0  due to Planned Activity (BCR29655)
+29/07/19, 2:50 am - Nikhil😎: Subscriber balance files and Subsciber  Dump trasferred to RAFM for all OCS zones
+29/07/19, 5:29 am - Nikhil😎: Cleanup,Activation and Allowance Purge Schedular Completed for all OCS zones.
+29/07/19, 8:36 am - Vidhi Arora Jio: All App leads
+
+Please confirm that your roaster is uploaded max by eod today
+29/07/19, 12:13 pm - +91 77382 83796: Done yesterday night.
+29/07/19, 12:50 pm - +91 75079 13000: Uploaded e-roster for billing team.
+29/07/19, 12:56 pm - Kintu Khamar: e-roaster uploaded for Passive Mediation.
+29/07/19, 12:57 pm - +91 83693 53066: Uploaded roaster for se and cg
+29/07/19, 1:09 pm - +91 77188 18595: Uploaded for WiFi team
+29/07/19, 2:02 pm - Vivek Sir Jio: <Media omitted>
+29/07/19, 7:30 pm - Vivek Sir Jio: <Media omitted>
+30/07/19, 2:24 am - Nikhil😎: Subscriber balance files and Subsciber  Dump trasferred to RAFM for all OCS zones
+30/07/19, 2:50 am - Nikhil😎: <Media omitted>
+30/07/19, 6:54 am - Nikhil😎: Cleanup,Activation and Allowance Purge Schedular Completed for all OCS zones.
+30/07/19, 4:43 pm - Vivek Sir Jio: TS1 OCS : Timeout occurred
+30/07/19, 4:46 pm - Vivek Sir Jio: Bridge call opened: 24867262
+30/07/19, 4:49 pm - Vivek Sir Jio: TS1 : SVC one node warm started.
+30/07/19, 4:53 pm - Vivek Sir Jio: 142 failed transactions repushed
+30/07/19, 5:09 pm - Vivek Sir Jio: Severity raised
+30/07/19, 5:33 pm - Vivek Sir Jio: Sev2 (BIM9682368)
+30/07/19, 7:56 pm - Vidhi Arora Jio: TOPSEC: Hi All
+
+We have a scheduled PIM Upgrade Activity for Lower Environment PIM on 3rd August 2019 from 6 AM to 7 AM. Please note that LE PIM services via URL-
+https://lepim.jio.com
+will be intermittently unavailable during this window.
+Kindly plan your activities accordingly.
+
+Thanks,
+TOPS SNOW Team
+30/07/19, 9:18 pm - Vivek Sir Jio: <Media omitted>
+30/07/19, 10:14 pm - Vidhi Arora Jio: Idam prod dB temp space has gone in read only mode. Need to fail over tonight after 00 hours
+30/07/19, 10:15 pm - +91 77188 18595: Yes arranging call with DB and OS team
+31/07/19, 3:23 am - Nikhil😎: Subscriber balance files and Subsciber  Dump trasferred to RAFM for all OCS zones
+31/07/19, 3:56 am - Rupesh Mote: Split code release in KA0 completed 
+Sanity in progress .
+No immediate observation from estel n upstream . Recharge flow is ok .
+31/07/19, 4:34 am - Rupesh Mote: Sanity done with circle spoc ...
+With ongoing session , voice incoming , outgoing n after restarting device .
+Login to My jio and checked plan details . To validate Bal enq .
+31/07/19, 4:35 am - Rupesh Mote: All looks ok .
+31/07/19, 4:58 am - Rupesh Mote: Sanity done for VIP postpaid , prepaid n results are ok .
+31/07/19, 5:55 am - Rupesh Mote: <Media omitted>
+31/07/19, 5:56 am - Nikhil😎: Cleanup,Activation and Allowance Purge Schedular Completed for all OCS zones.
+31/07/19, 6:33 am - +91 70210 93007: Ok
+31/07/19, 6:53 am - Kintu Khamar: Punjab circle SAE GT not able to send CDRs towards PMZ server. NOC team on call.
+31/07/19, 6:56 am - Kintu Khamar: No issue in connectivity. Taking TCP dump for more analysis.
+31/07/19, 6:56 am - Kintu Khamar: Raising severity.
+31/07/19, 7:58 am - Nikhil😎: <Media omitted>
+31/07/19, 8:36 am - Amit Tripathi: @Ankur ..As discussed pl publish KPI parameter  every 2 hrs for KA0 OCS .
+31/07/19, 8:46 am - Ankur Jio: Yes sir.. working on to fetch from 6 to 8 am
+31/07/19, 8:46 am - Ankur Jio: Will publish shortly
+31/07/19, 9:32 am - Kintu Khamar: Samsung vendor team is working. SAE GT having IPv6 address are able to sent packets. Issue in 3 SAE GT having IPv4 connectivity.
+31/07/19, 9:33 am - mayur pawar jio: <Media omitted>
+31/07/19, 10:15 am - Amit Tripathi: Timeout observed in UP0. Single spike. 
+Count 1
+31/07/19, 10:17 am - Kintu Khamar: Issue resolve. Data transferred started from SAEGT. RCA awaited.
+31/07/19, 12:49 pm - mayur pawar jio: <Media omitted>
+31/07/19, 2:34 pm - mayur pawar jio: <Media omitted>
+31/07/19, 4:01 pm - mayur pawar jio: <Media omitted>
+31/07/19, 5:01 pm - Vivek Sir Jio: <Media omitted>
+31/07/19, 7:13 pm - +91 83693 53066: P3 file not received from billdesk.they have confirmed that there is sftp issue at their end. Raising sev 2
+31/07/19, 8:55 pm - Vivek Sir Jio: <Media omitted>
+31/07/19, 9:10 pm - Prasana Sahstra Budhe: <Media omitted>
+31/07/19, 9:11 pm - Prasana Sahstra Budhe: <Media omitted>
+01/08/19, 3:08 am - Abhishek D Singh: <Media omitted>
+01/08/19, 4:59 am - Nikhil😎: Subscriber balance files and Subsciber  Dump trasferred to RAFM for all OCS zones
+01/08/19, 3:20 pm - Vidhi Arora Jio: *2nd Walkthrough on Netbackup on IDC TC30, 1st Floor, Conf Room 1, 4pm today*
+
+*Ranjit and IDC Backup team needed.*
+
+Audit team mostly focus on reports and validation of backup schedules along with documents. They will also check access on tool.
+01/08/19, 3:21 pm - Vidhi Arora Jio: *Application control review*
+
+
+
+*Selected applications list below:*
+
+SAP CC, ESTEL, SAP CI, SAP ICM, Hadoop FMS, IDC Netbackup, Active MZ, Novelvox, Passive MZ, SMS Campaign Manager
+01/08/19, 9:00 pm - Vivek Sir Jio: <Media omitted>
+02/08/19, 1:00 am - Gautam Londe: Timeout and  Inter-instances Communication Observed in KA0 Zone  due to Planned Activity (BCR30211)
+02/08/19, 2:09 am - Gautam Londe: Subscriber balance files and Subsciber  Dump trasferred to RAFM for all OCS zones
+02/08/19, 3:56 am - Gautam Londe: <Media omitted>
+02/08/19, 3:57 am - Gautam Londe: KA0 restart activity is in progress
+02/08/19, 9:06 pm - Vivek Sir Jio: <Media omitted>
+03/08/19, 3:28 am - Gautam Londe: Subscriber balance files and Subsciber  Dump trasferred to RAFM for all OCS zones
+03/08/19, 4:40 am - Gautam Londe: <Media omitted>
+03/08/19, 7:28 am - +91 96899 56477: <Media omitted>
+03/08/19, 8:02 am - Gautam Londe: <Media omitted>
+03/08/19, 11:12 am - Anagha Narkar: This message was deleted
+03/08/19, 12:32 pm - Anagha Narkar: <Media omitted>
+03/08/19, 1:00 pm - Anagha Narkar: <Media omitted>
+03/08/19, 3:12 pm - mayur pawar jio: <Media omitted>
+03/08/19, 5:17 pm - mayur pawar jio: <Media omitted>
+03/08/19, 7:26 pm - +91 84339 11548: Up0 time-out 
+Who is checking??
+03/08/19, 7:27 pm - mayur pawar jio: *Timeout observed in UP0*. 
+Single spike. 
+Count 1
+03/08/19, 7:55 pm - Abhishek D Singh: This message was deleted
+03/08/19, 7:56 pm - Abhishek D Singh: We have checked thread dump and not found subscriber related  issue. Waiting for partition ids details to check allowance and session count.
+03/08/19, 7:58 pm - Abhishek D Singh: We were not able to connect DR MH0 CC DB for some time,Now its working fine.
+03/08/19, 7:58 pm - Abhishek D Singh: DBA team is investigating the issue
+03/08/19, 8:07 pm - +91 77188 36021: 96257 92764 is this jio no ?
+03/08/19, 8:08 pm - +91 77188 36021: Can some one check status of this number and update pl
+03/08/19, 8:14 pm - Vishal Patel Jio: Currently 98 rs plan is active.  Having validity end date as 27th Aug
+03/08/19, 8:55 pm - mayur pawar jio: <Media omitted>
+03/08/19, 9:07 pm - Om Prakash Singh: <Media omitted>
+03/08/19, 11:10 pm - +91 83693 53066: We are not receiving nrtrde files from syniverse .raising sev 2
+Informed to Manish from international Roaming.
+03/08/19, 11:10 pm - +91 83693 53066: There netwrok team is already working towards the solution
+04/08/19, 12:22 am - Nagesh Dolaskar Jio: MZ wily graphs are not visible for WB1, TS1 & MH2 zone checking with tools team
+04/08/19, 12:43 am - Nagesh Dolaskar Jio: <Media omitted>
+04/08/19, 1:27 am - Nagesh Dolaskar Jio: Clean up schedular completed for all OCS zones.
+04/08/19, 1:55 am - Nagesh Dolaskar Jio: Subscriber balance files and Subsciber  Dump trasferred to RAFM for all OCS zones
+04/08/19, 8:00 am - +91 83693 53066: We have startreceiving the files since 4am.kept under observation.
+04/08/19, 11:25 am - Gautam Londe: MZwily and  CC wily graphs went blank for 3 to 4 min in TS1 zone. checking with tools team
+04/08/19, 6:33 pm - +91 77188 18595: IDAM BCR30144 : Phase1 Code Upgradation for OID to Cassandra Data Store scheduled for tonight  is postponed.
+
+Informed to CM team.
+05/08/19, 12:44 am - Nagesh Dolaskar Jio: Due to planned activity (BCR29655) we have observed timeouts in GJ0 & MH2 zone
+05/08/19, 3:13 am - Nagesh Dolaskar Jio: We have observed timeouts with max count 2 on DL0 zone (old GC duration also triggered at same time)
+05/08/19, 3:31 am - Nagesh Dolaskar Jio: Clean up schedular completed for all OCS zones.
+05/08/19, 4:10 pm - Vivek Sir Jio: <Media omitted>
+05/08/19, 4:18 pm - Sagar Gulhanee Jio: <Media omitted>
+05/08/19, 6:25 pm - Vivek Sir Jio: <Media omitted>
+06/08/19, 12:33 am - Nagesh Dolaskar Jio: Due to planned activity(BCR30225) at ToosTools end no data is available in MZ-wily
+06/08/19, 1:32 am - Nagesh Dolaskar Jio: Clean up schedular completed for all OCS zones.
+06/08/19, 1:33 am - Nagesh Dolaskar Jio: Subscriber balance files and Subsciber  Dump trasferred to RAFM for all OCS zones
+06/08/19, 1:44 am - Devesh Jio: Receiving Connection timeout (Host Not Available) on South web 3
+And TPA MIS 2, WEB 3
+Unix team is analysing...
+06/08/19, 1:49 am - Devesh Jio: 10.137.50.11
+10.137.50.13
+10.137.50.127
+
+Estel Servers
+06/08/19, 1:50 am - +91 77382 83796: Pls raise Sev 2. Involve IM team.
+06/08/19, 2:10 am - Devesh Jio: Typo- 
+It's TPA WEB 2 and MIS 2
+06/08/19, 5:17 am - Sumeet Jio: <Media omitted>
+06/08/19, 6:18 am - Devesh Jio: Servers are accessible including 10.137.50.124 TPA App 1 which also got down for 5mins for same issue
+06/08/19, 4:11 pm - +91 77188 18595: IDAM Emergency CR is been raised for rolling restart for changing the new consumption devices creation OU that got changed after today early morning deployment.
+06/08/19, 5:53 pm - +91 77188 18595: Idam app reload completed no issues observed. Taking confirmation from all teams.
+06/08/19, 6:04 pm - +91 77188 18595: Confirmation received from all teams
+06/08/19, 6:06 pm - +91 77188 18595: <Media omitted>
+06/08/19, 6:08 pm - Vidhi Arora Jio: 👍
+06/08/19, 7:26 pm - Vivek Sir Jio: This message was deleted
+06/08/19, 7:54 pm - Vivek Sir Jio: This message was deleted
+06/08/19, 8:27 pm - Vivek Sir Jio: <Media omitted>
+06/08/19, 10:58 pm - Gautam Londe: We have observed timeout for TS0 zone with max count 3 for rater 10
+07/08/19, 5:13 am - Gautam Londe: Subscriber balance files and Subsciber  Dump trasferred to RAFM for all OCS zones
+07/08/19, 5:16 am - Gautam Londe: for DL0 zone we have observed timeout @03:03:00AM
+07/08/19, 5:17 am - Gautam Londe: For MH2 zone Due to planned activity (BCR30492) we have observed server timeout
+07/08/19, 5:19 am - Gautam Londe: <Media omitted>
+07/08/19, 6:55 am - Gautam Londe: Clean up schedular completed for all OCS zones.
+07/08/19, 6:57 am - Gautam Londe: Activation and Allowance Purge Schedular Completed for all OCS zones. Except MH1 zone allowance schedular is running
+07/08/19, 1:16 pm - Vivek Sir Jio: UP0 OCS; Timeout occurred
+07/08/19, 3:46 pm - Sagar Gulhanee Jio: Floor walk in TC 30 and TC 22 scheduled at 5:00 pm. Request you to sensitize your team to follow do and don't shared earlier.
+07/08/19, 9:35 pm - Vivek Sir Jio: <Media omitted>
+07/08/19, 9:35 pm - Vivek Sir Jio: <Media omitted>
+07/08/19, 9:35 pm - Vivek Sir Jio: Tonight's Activities
+07/08/19, 10:48 pm - +91 77188 18595: ISO TOPS: EA (I / U) IN RJIL (Ticket Awaited) S2 21:13 Hrs.
+
+PRB: Configure Customer Identity not triggered from TIBCO OE
+
+IMP: Customer unable to login Jio digital application
+
+UPD: IDAM team providing workaround based for which TIBCO sharing data. For permanent fix TIBCO development team investigating the issue.
+
+ Bridge ID: 02279687555 Conf. ID: 46846151.
+
+NU: 08th Aug 01:00 hrs
+07/08/19, 11:03 pm - +91 77188 18595: Based on RA Recon findings 600 customers CCI call is not trigerred and IMSI not provisioned in IDAM. S2 is raised.
+07/08/19, 11:23 pm - +91 77188 18595: ISO TOPS: EA (I / U) IN RJIL (Ticket Awaited) S2 22:44 Hrs.
+
+PRB: For Jio Engage SMS Campaign, incorrect recharge validity notification message sent to customers on 5th Aug and 6th Aug.
+
+IMP: SMS notification sent with incorrect SMS verbiage validity to customer.
+
+UPD: No issues observed at Analytics end for all 6 reported cases. Issue is currently being analysed by TOPS NE team.
+
+NU: 08th Aug 01:30 hrs
+08/08/19, 1:01 am - +91 77188 18595: Messages are processed as expected from NE.
+VVMNOC team is investigating the reason
+08/08/19, 3:15 am - Gautam Londe: We have observed server timeout on rater14 for DL0 zone
+08/08/19, 3:20 am - Gautam Londe: Subscriber balance files and Subsciber  Dump trasferred to RAFM for all OCS zones
+08/08/19, 3:20 am - Gautam Londe: This message was deleted
+08/08/19, 4:21 am - Gautam Londe: We have observed timeout with max count 1on rater #22 for UP0 zone
+08/08/19, 6:16 am - Vishal Patel Jio: <Media omitted>
+08/08/19, 6:18 am - Vishal Patel Jio: <Media omitted>
+08/08/19, 6:44 pm - Kintu Khamar: Unschedule maintenance activity at Syniverse end. Impacting collection of NRTRDE and distribution of TAPout files. Sev 2 raised. Vendor team is working.
+08/08/19, 9:46 pm - Vivek Sir Jio: <Media omitted>
+09/08/19, 2:26 am - Gautam Londe: Subscriber balance files and Subsciber  Dump trasferred to RAFM for all OCS zones
+09/08/19, 3:14 am - Gautam Londe: We have observed Timeout with max count 299 on rater#10@03:03:00 AM along with inter instance communication error with max count 1995 on dispatcher #6 at same time for *DL0* ..
+09/08/19, 4:34 am - Gautam Londe: We have observed timeout for GJ0 zone with max count 187 on rater #3
+09/08/19, 7:14 am - Vishal Patel Jio: <Media omitted>
+09/08/19, 8:59 pm - Vivek Sir Jio: This message was deleted
+09/08/19, 8:59 pm - Vivek Sir Jio: <Media omitted>
+09/08/19, 8:59 pm - Vivek Sir Jio: <Media omitted>
+09/08/19, 9:00 pm - Vivek Sir Jio: Tonight's Activities
+09/08/19, 9:48 pm - Vivek Sir Jio: <Media omitted>
+10/08/19, 12:57 am - Gautam Londe: WB0 spectrum workflow is in aborted state due to below error
+10/08/19, 1:00 am - Gautam Londe: <Media omitted>
+10/08/19, 1:16 am - Gautam Londe: After ecsa restart workflow is up & running
+10/08/19, 2:19 am - Gautam Londe: Subscriber balance files and Subsciber  Dump trasferred to RAFM for all OCS zones
+10/08/19, 3:16 am - Gautam Londe: We have observed server timeout for MH2 and DL0 zone
+10/08/19, 3:25 pm - mayur pawar jio: We have observed server timeout for *MH1*
+multiple raters
+Count 3.9k
+10/08/19, 3:42 pm - Prasana Sahstra Budhe: Checking with storage team
+10/08/19, 6:22 pm - Prasana Sahstra Budhe: Observed single timeout spike for rater#22 and interinstance in WB1 zone.
+After getting partition ids from Basis will check for high subscriber allowances.
+11/08/19, 3:06 am - Nagesh Dolaskar Jio: We have observed Timeout with max count 1 on rater#22@03:02:30 AM along with inter instance communication error with max count 957 on dispatcher #1 at same time for *DL0*
+11/08/19, 3:30 am - Nagesh Dolaskar Jio: We have observed Timeout with max count 25 on rater#2@03:17:15 AM along with inter instance communication error with max count 231 on dispatcher #2 at same time for *KA0*
+11/08/19, 3:44 am - Nagesh Dolaskar Jio: Subscriber balance files and Subsciber  Dump trasferred to RAFM for all OCS zones
+11/08/19, 2:59 pm - +91 83693 53066: Received multiple alerts of DIP in count & VAS Platform Failure for Comviva Consent Gateway Application.
+coordinating with VVM NOC team.on war room call.
+12/08/19, 12:30 am - Nagesh Dolaskar Jio: Due to planned activity (BCR30494) timeout and inter instance communication error occured on MH0 zone
+12/08/19, 12:47 am - Nagesh Dolaskar Jio: Due to planned activity (BCR30494) timeout and inter instance communication error occured on UP0 zone
+12/08/19, 1:43 am - Nagesh Dolaskar Jio: Subscriber balance files and Subsciber  Dump trasferred to RAFM for all OCS zones
+12/08/19, 5:50 am - +91 99583 84567: <Media omitted>
+12/08/19, 7:16 am - +91 84339 11548: What is the status of deployments??? Cc release and active mediation in MH0
+12/08/19, 7:21 am - Suraj Jio New: Completed sir from MZ end
+12/08/19, 7:22 am - Amit Tripathi: Sir. 
+SAP CC Split code deployment done successfully in MH2 and TS1 . 
+Till now deployment done in 8 OCS zone. 
+
+Active mediation DCWI configuration done in MH0 OCS.
+12/08/19, 7:25 am - Suraj Jio New: <Media omitted>
+12/08/19, 7:25 am - Suraj Jio New: Basic sanity looks ok
+12/08/19, 7:26 am - Suraj Jio New: For MH0
+12/08/19, 7:45 am - Kuber Sir Jio: Appleads please note Weekly Governance call postponed till Evening
+12/08/19, 8:16 am - +91 83693 53066: Again issue come
+12/08/19, 9:51 am - +91 83693 53066: Following message coming for jio tunes
+12/08/19, 9:51 am - +91 83693 53066: Dear Customer, 
+ JioTunes services are unavailable at the moment as we are upgrading our systems to serve you better. Please try again in some time. Your support is appreciated. 
+ Thank you, 
+ Team Jio.
+12/08/19, 9:52 am - +91 83693 53066: Noc dba storage team workinng
+12/08/19, 12:43 pm - +91 83693 53066: Jpg p1 files not generating at selfcare on call with selfcare team and war room.
+12/08/19, 1:34 pm - +91 83693 53066: Start receiving the p1 file from the seflcare for jpg.
+12/08/19, 5:23 pm - Kuber Sir Jio: Please note rescheduled time, join bridge at 07:00 pm.
+12/08/19, 9:55 pm - Vivek Sir Jio: <Media omitted>
+13/08/19, 12:40 am - Nagesh Dolaskar Jio: Due to planned activity(ECR #BCR 30854) timeout and inter instance communication error occured on MH2 zone
+13/08/19, 1:31 am - Nagesh Dolaskar Jio: Due to planned activity(BCR30788 ) timeout and inter instance communication error occured on WB0 zone
+13/08/19, 2:11 am - Nagesh Dolaskar Jio: Subscriber balance files and Subsciber  Dump trasferred to RAFM for all OCS zones
+13/08/19, 3:43 am - Suraj Jio New: BCR30790 Enterprise release has been completed in UP0 DL0 and GJ0 zone, basic sanity done and looks OK.
+13/08/19, 4:30 am - Nagesh Dolaskar Jio: Timeout with max count 2 was observed on DL0 zone
+13/08/19, 6:44 am - +91 83693 53066: Again issue coming from crbt, vvmnoc is checking.asked war room to open the bridge.
+13/08/19, 7:05 am - +91 83693 53066: Dba team killed the backup process now request are processing.
+13/08/19, 7:34 am - +91 83693 53066: SE MIS db  is not reachable, failover not happened to passive server. Unix and DBA team checking. Raising sev . Impact : recharge war room report getting impacted.
+13/08/19, 8:06 am - +91 83693 53066: Node was in hung state after restart its working fine.unix team raised to hp team for further analysis.
+13/08/19, 12:46 pm - Nikhil Sir Jio: There is training by Change Management Team for new module( CI impacted)  added in HPSM .
+Request Lalit Gupta, Avinash D, Mohit M, Kuber, Surendra S, Jeetu Gabra, Manish Srivastava, Abhishek Kashive to join.
+Location: conference room 3, d block SECOND FLOOR
+Time: 1PM
+13/08/19, 12:57 pm - Nikhil Sir Jio: As confirmed by Shirish Hanchate, the training is postponed for today. Will update accordingly.
+13/08/19, 8:34 pm - Vivek Sir Jio: <Media omitted>
+14/08/19, 12:36 am - Kuber Sir Jio: <Media omitted>
+14/08/19, 12:41 am - Kuber Sir Jio: <Media omitted>
+14/08/19, 12:51 am - Kuber Sir Jio: CRM , CDT, BASIS nd SAP CC are on OCS Bridge (pass code 8131606)
+14/08/19, 12:55 am - Kuber Sir Jio: To support UP0 code split deployment
+14/08/19, 1:00 am - Kuber Sir Jio: <Media omitted>
+14/08/19, 1:03 am - Kuber Sir Jio: This message was deleted
+14/08/19, 1:04 am - Kuber Sir Jio: <Media omitted>
+14/08/19, 1:05 am - Kuber Sir Jio: Requested CRM to stop queue
+14/08/19, 1:07 am - Kuber Sir Jio: CRM queue stopped
+14/08/19, 1:10 am - Kuber Sir Jio: All ( activation, purge and Refresh) schedulers stopped by BASIS.
+14/08/19, 1:11 am - Kuber Sir Jio: CDT , started deployment.
+14/08/19, 1:15 am - Kuber Sir Jio: CDT deployment done.
+14/08/19, 1:21 am - Kuber Sir Jio: Sanity in progress
+14/08/19, 1:23 am - Kuber Sir Jio: BASIC sanity completed.
+14/08/19, 1:25 am - Kuber Sir Jio: CRM queue started again
+14/08/19, 1:29 am - Kuber Sir Jio: Now BASIS starting Rolling restart of Raters.....UP0 OCS zone.
+14/08/19, 3:35 am - Prasana Sahstra Budhe: Subscriber balance files and Subsciber  Dump files have  trasferred to RAFM for all OCS zones
+14/08/19, 5:10 am - Prasana Sahstra Budhe: In UP0, Two spikes(count 4 & 2) of time and interinstance observed due planned activity BCR30788, after rolling restart of rater host started.
+14/08/19, 5:52 am - Prasana Sahstra Budhe: BCR30790 Split code || BCR30788 Rater rolling restart has been completed in UP0 zone.
+Basis team has started schedulers manually in UP0, post activity.
+14/08/19, 8:06 am - Prasant Sir Whatsup: @Prasanna, plz share GC stats post rating context parameter change and rater restart.
+14/08/19, 8:16 am - Prasana Sahstra Budhe: <Media omitted>
+15/08/19, 12:06 am - Kuber Sir Jio: BCR30790/BCR30788 : Code Split and Raters Rolling Restart is in .......GJ0 OCS
+15/08/19, 12:20 am - Kuber Sir Jio: CRM , CDT, BASIS nd SAP CC are on OCS Bridge (pass code 8131606)
+15/08/19, 12:30 am - Kuber Sir Jio: <Media omitted>
+15/08/19, 12:48 am - Kuber Sir Jio: <Media omitted>
+15/08/19, 12:54 am - Kuber Sir Jio: <Media omitted>
+15/08/19, 1:00 am - Kuber Sir Jio: <Media omitted>
+15/08/19, 1:02 am - Kuber Sir Jio: <Media omitted>
+15/08/19, 1:03 am - Kuber Sir Jio: CRM will stop queue now
+15/08/19, 1:06 am - Kuber Sir Jio: CRM queue stopped
+15/08/19, 1:07 am - Kuber Sir Jio: All ( activation, purge and Refresh) schedulers stopped by BASIS.
+15/08/19, 1:08 am - Kuber Sir Jio: SAP CC deployment started by CDT.
+15/08/19, 1:13 am - Kuber Sir Jio: SAP CC release deployment done by CDT.
+15/08/19, 1:16 am - Kuber Sir Jio: Sanity in progress
+15/08/19, 1:21 am - Ruchi jio left
+15/08/19, 1:22 am - Kuber Sir Jio: <Media omitted>
+15/08/19, 1:25 am - Kuber Sir Jio: CRM queue opened by CRM
+15/08/19, 1:33 am - Kuber Sir Jio: Rolling restart of Raters, GJ0 OCS initiated by BASIS now......
+15/08/19, 1:34 am - Kuber Sir Jio: <Media omitted>
+15/08/19, 3:51 am - Prasana Sahstra Budhe: Timeout and interinstance error observed in UP0 due to planned activity BCR30942
+15/08/19, 4:59 am - Prasana Sahstra Budhe: In GJ0, Two spikes of timeout and interinstance error observed, after rater rolling restart in GJ0 as part PE BCR30788
+15/08/19, 5:04 am - Prasana Sahstra Budhe: BCR30790 Split code || BCR30788 Rater rolling restart has been completed in GJ0 OCS zone.
+Basis team has started activation scheduler manually in GJ0, post activity.
+15/08/19, 7:57 am - Prasana Sahstra Budhe: <Media omitted>
+15/08/19, 9:52 am - Vivek Sir Jio: <Media omitted>
+15/08/19, 4:12 pm - Kintu Khamar: RCC bit loading files backlogs observed in all zones except MH0 zone,
+Raised with Basis & CI team.
+Basis team is checking. DBA team checked and not found any issue.
+15/08/19, 4:20 pm - +91 84339 11548: How much is the backlog?
+15/08/19, 4:35 pm - Kintu Khamar: 2k per zone. 4hrs backlog. Involved incident team.
+15/08/19, 5:25 pm - Kintu Khamar: Restarted all EC and basis team also raised concern for storage team.
+15/08/19, 5:30 pm - +91 98230 06928: DBA and backup team are checking for io issue..Backup also is in progress in parallel.
+15/08/19, 5:39 pm - +91 98230 06928: As per backup - Only archive backup in progress. Unix , storage and DBA team are on call for investigation..
+15/08/19, 5:41 pm - +91 84339 11548: Is sev2 raised ?
+15/08/19, 5:42 pm - +91 98230 06928: Mail sent to Incident team,in progress..
+15/08/19, 5:51 pm - Rajesh Karnati Jio: Bridge opened for 02279687555
+Conf I'd 24867262
+15/08/19, 5:51 pm - Rajesh Karnati Jio: RCC bits loading issue.
+15/08/19, 5:55 pm - +91 98230 06928: Log writer has high response time i.e. I/o
+15/08/19, 5:56 pm - +91 98230 06928: This is observed in db trace
+15/08/19, 6:35 pm - +91 98230 06928: Issue seems to be resolved after enabling HBA port by storage team. This was disabled by storage in morning..
+15/08/19, 6:36 pm - +91 98230 06928: Response at application is faster than earlier now for RFCs. Bit loading is under observation.
+15/08/19, 6:43 pm - Rajesh Karnati Jio: Issue resolved post disabling FC port by Unix team.
+Mediation end bits loading into RCC system working fine.
+Backlog files are getting loading.
+15/08/19, 6:52 pm - Atul Gaikwad Jio left
+16/08/19, 7:21 am - Vishal Patel Jio: <Media omitted>
+16/08/19, 9:31 am - Vidhi Arora Jio: Team
+
+BP sir’s Fttx is not working. Pl check urgently
+16/08/19, 10:13 am - Vidhi Arora Jio: <Media omitted>
+16/08/19, 11:25 am - Mrudula Gadre: BP sir's fttx connection customer ID that we got from mail was 1137015493 and it is working properly as we ran check charge. Also checked for latest hit in debug logs and proper policy of 1 gbps is getting triggered.
+16/08/19, 8:58 pm - Vidhi Arora Jio: +91 79777 57707
+16/08/19, 8:58 pm - Vidhi Arora Jio: International outgoing calls is barred
+16/08/19, 9:10 pm - Raj Jangid jio: Customer is associated with IR plan.... Simulation is working fine.....raised to network team to check barring/unbarring at their end.
+16/08/19, 10:12 pm - Raj Jangid jio: Customer is suspended in HSS at network end.
+16/08/19, 10:39 pm - Nagesh Dolaskar Jio left
+16/08/19, 10:53 pm - Vidhi Arora Jio: Thanks
+17/08/19, 12:32 am - Prasana Sahstra Budhe: In TS0, spike of Time and interinstance observed due to planned activity(BCR30788) of rolling restart of raters.
+17/08/19, 2:27 am - Prasana Sahstra Budhe: Subscriber balance files and Subsciber  Dump files have  trasferred to RAFM for all OCS zones
+17/08/19, 4:33 am - Prasana Sahstra Budhe: Timeout with max count 3 and interinstance with count 1 observed in DL0 due to activity of addition of rater instances and bulkloder instances(BCR31043) , being performed by basis team
+17/08/19, 4:48 am - Prasana Sahstra Budhe: Planned activity(BCR30788) of rolling restart of rater hosts to reduce high utilization of heap memory has been completed and sanity is found ok.
+17/08/19, 4:48 am - Prasana Sahstra Budhe: In TS0
+17/08/19, 7:34 am - Abhishek D Singh: Received timeout in UP0 dispatcher5 with max count 4.5k
+17/08/19, 7:38 am - +91 84339 11548: Any reason why timeouts are coming in up0???
+17/08/19, 7:41 am - Amit Tripathi: Sir... Checking.. Will update u.
+17/08/19, 8:15 am - Abhishek D Singh: Timeout was on multiple raters and dispatchers at 07:28 AM..Found some abnormality at storage end.
+17/08/19, 4:47 pm - Anagha Narkar: Timeout was on multiple raters and dispatchers at 04.40 PM. With highest value 5988 . With high DB & inter instance communication error
+17/08/19, 4:48 pm - Anagha Narkar: Zone-UP0
+17/08/19, 6:14 pm - mayur pawar jio: <Media omitted>
+17/08/19, 11:52 pm - Kuber Sir Jio: BCR30790/BCR30788 : Code Split and Raters Rolling Restart is in .......DL0 OCS
+18/08/19, 12:06 am - Kuber Sir Jio: <Media omitted>
+18/08/19, 12:06 am - Kuber Sir Jio: <Media omitted>
+18/08/19, 12:31 am - Kuber Sir Jio: <Media omitted>
+18/08/19, 1:07 am - Kuber Sir Jio: CRM queue stopped
+18/08/19, 1:07 am - Kuber Sir Jio: All ( activation, purge and Refresh) schedulers stopped by BASIS.
+18/08/19, 1:07 am - Kuber Sir Jio: SAP CC deployment started by CDT.
+18/08/19, 1:08 am - Kuber Sir Jio: <Media omitted>
+18/08/19, 1:13 am - Kuber Sir Jio: SAP CC deployment done.
+18/08/19, 1:14 am - Amit Tripathi: Ok.. Perform basic sanity nd ask basis team to restart raters.
+18/08/19, 1:17 am - Kuber Sir Jio: Sanity in progress , Circle SPOC is doing.
+18/08/19, 1:18 am - Kuber Sir Jio: <Media omitted>
+18/08/19, 1:24 am - Kuber Sir Jio: Done
+18/08/19, 1:24 am - Kuber Sir Jio: CRM queue open now
+18/08/19, 1:25 am - Kuber Sir Jio: SPLIT code deployment in DL0 completed.
+18/08/19, 1:30 am - Nikhil😎: Basis Team Starting Rolling Restart  Activity in DL0 Zone
+18/08/19, 1:47 am - Nikhil😎: Time out with max count 1 and interinstance with max count 1 observed due to planned activity(BCR30788) of rolling restart of raters.
+18/08/19, 1:52 am - Kuber Sir Jio: Now Enterprise and Code split Release is deployed in all OCS zones.
+18/08/19, 1:56 am - Kuber Sir Jio: This message was deleted
+18/08/19, 1:57 am - Kuber Sir Jio: This message was deleted
+18/08/19, 1:58 am - Kuber Sir Jio: Rolling restart of Raters in DL0 OCS is in progress......MH2 OCS Rolling restart of Raters is only  remaining, is planned tonight 19th Aug.(00:00 to 06:00 hrs).
+18/08/19, 2:25 am - Nikhil😎: Subscriber balance files and Subsciber  Dump files have  trasferred to RAFM for all OCS zones
+18/08/19, 3:14 am - Nikhil😎: Timeout observed in KA0 Zone with max count 112 and Inter instances with max count 1889
+18/08/19, 3:22 am - Nikhil😎: Observing Intermittent Timeout and Inter instances in Ka0 zone
+18/08/19, 3:35 am - Nikhil😎: Observing High full Gc and DB Response Time on multiple Raters
+18/08/19, 4:48 am - Nikhil😎: Observed  Timeout with max count 1 and Interinstances with max count 559 @04:44:45 AM in KA0 Zone
+18/08/19, 5:56 am - Nikhil😎: Rolling Restart of Raters in DL0 OCS is completed
+19/08/19, 12:55 am - Nikhil😎: Timeout observed in KA0 zone due to Planned Activity Rater Rolling Restart
+19/08/19, 3:25 am - Nikhil😎: Subscriber balance files and Subsciber  Dump files have  trasferred to RAFM for all OCS zones
+19/08/19, 3:31 am - Nikhil😎: You deleted this message
+19/08/19, 3:32 am - Nikhil😎: Rolling Restart is in progress in KA0 Zone,2 rater hosts remaining
+19/08/19, 4:14 am - Nikhil😎: Sanity is done from circle team
+19/08/19, 4:17 am - Nikhil😎: Rolling Restart is completed in KA0 Zone
+19/08/19, 6:02 am - Abhishek D Singh: Happy Birthday Manish P Sir 😊
+19/08/19, 6:47 am - Rupesh Mote: Happiest birthday Manish 🥳🥳🎂🎂🍻🍻🎂🎂
+19/08/19, 7:04 am - Prasant Sir Whatsup: Happy birthday Manish bhai🎂🎂💥
+19/08/19, 7:17 am - Vidhi Arora Jio: Happy birthday Manish
+19/08/19, 7:24 am - Kuber Sir Jio: <Media omitted>
+19/08/19, 7:24 am - Kuber Sir Jio: Appleads please join above
+19/08/19, 8:31 am - Kuber Sir Jio: Not able to join after abrupt disconnect.
+19/08/19, 8:33 am - +91 83693 53066: Happy birthday Manish P🙂
+19/08/19, 8:33 am - Mohit Jio: Happiest birthday Manish Bhai..!!!
+19/08/19, 8:34 am - +91 77188 18595: Happy Birthday Manish 🎂🍻
+19/08/19, 8:41 am - +91 84339 11548: Happy birthday Manish ! God blessed !!
+19/08/19, 10:15 am - +91 70210 93007: Thank you Sir , thank you  all for your wonderful wishes !
+19/08/19, 10:26 am - Vivek Sir Jio: <Media omitted>
+19/08/19, 10:49 am - Amit Tripathi: Happy Birthday 
+Manish P.....
+19/08/19, 11:15 am - Kintu Khamar: Happy Birthday Manish 🎂🍰
+19/08/19, 6:48 pm - Vivek Sir Jio: DL0 OCS: Timeout occurred
+19/08/19, 6:49 pm - Vivek Sir Jio: <Media omitted>
+19/08/19, 6:59 pm - Vivek Sir Jio: AG1 network down
+19/08/19, 7:00 pm - Vivek Sir Jio: *Bridge opened*-24867262
+19/08/19, 7:01 pm - Vivek Sir Jio: Storage point of view response is fine but it is visible in a short time iops due to application load increased from 60k to 130 k. Storage peak latency is within 100 even after this load increase.
+19/08/19, 9:25 pm - Vivek Sir Jio: <Media omitted>
+19/08/19, 9:53 pm - Vivek Sir Jio: ++ Emergency CR 
+BCR31210 PROD-KA0
+Restarting Rater#21 in KA0
+ka0app06rt
+20/08/19, 1:20 am - Nikhil😎: Rolling restart is started in MH2 Zone...
+20/08/19, 3:16 am - Nikhil😎: Subscriber balance files and Subsciber  Dump files have  trasferred to RAFM for all OCS zones
+20/08/19, 5:40 am - Nikhil😎: Rolling restart is completed in MH2 Zone
+20/08/19, 5:52 am - Suraj Jio New: <Media omitted>
+20/08/19, 6:14 am - +91 83693 53066: Trai cms successfully  deployed in SE,IDAM,Seco.
+Basic sanity done.
+20/08/19, 9:09 am - Samya left
+20/08/19, 9:51 pm - Vivek Sir Jio: <Media omitted>
+21/08/19, 3:01 am - Nikhil😎: Subscriber balance files and Subsciber  Dump files have  trasferred to RAFM for all OCS zones
+21/08/19, 4:12 am - Nikhil😎: Timeout observed in MH1 Zone with max count 1 and Inter instance communication error with max count 680 @04:05:00 AM.
+21/08/19, 4:36 am - Nikhil😎: Observed High Full GC with max time 27 Sec on  rater#27
+21/08/19, 4:49 am - +91 83693 53066: Production Deployment is completed for IDFC from our end and have registered two mandates successfully. (Details  shared on mail by Ankit Chouhan )
+21/08/19, 5:27 am - +91 83693 53066: Flag has been disable at jio.com for no more registration
+21/08/19, 6:17 am - Suraj Jio New: <Media omitted>
+21/08/19, 8:11 pm - Vivek Sir Jio: *AG3 planned activities tonight*
+Extension racks replacements in IBM frames at Vikaspuri holding ts1 and wb1 db.
+PSU/ FAN modules replacement in 3048 switches of OCS setup @ BANG switches
+21/08/19, 8:12 pm - Vivek Sir Jio: *BAU PLANNED* 
+*Event Date* 22/08/2019
+*Location* - AG3 BNG
+*Event Details* -BCR31261 || FAN & PSU relpacement of TOR Nexus3048 (4 device) 
+*Where*- 
+*SL Number*- FOC1934R2BL, FOC1934R25Z, FOC1934R24M,  FOC1931R1CX
+*Host name*- BGLRUPKWCES516/
+BGLRUPKWCES562/
+BGLRUPKWCES566/  BGLRUPKWCES512
+*Location*:- B01-R05-43U, B01-R06-43U, B02-R15-41U,  B02-R16-41U.
+*Environment*:- PROD
+*Application*:- OCS. 
+*Action Planned*:- FAN & PSU relpacement of TOR Nexus3048 (04 device)
+*Activity Scheduled*-  22-Aug-2019 00:30 to  22-Aug-2019 06:00hr
+*Part Status*:- FAN & PSU available 
+*IP spoc*:- Abhilash(9686267972) 
+*Local Spoc* - Prince( 7019458117), Nitin (8310076517), Abhishek (9113989559)
+*Closure date*:- 22-08-2019
+21/08/19, 8:12 pm - Vivek Sir Jio: *BAU- PLANNED*
+*Event Date* 21-08-2019
+*Location*- AG3 VKP
+*Event Details*   BCR31241-IBM Frame rack extension activity on TS1 PROD and WB1 DR setup. 
+*Where-*
+*Host Names*:Ts1db01, db02,db03,db04 and wb1drdb01,drdb02, drdb03,drdb04.
+*Serial No*: 7806D08 and  7806CF8.
+*Location* 
+B06R01U17&22,B06R03U17&22.
+*Environment*: TS1 PROD and WB1 DR. 
+*Action Planned*
+*1. Installation of extension rack in IBM  frame-1(B06R01)- With New Fan  power cable connectivity from inverter 7  Phase- B MCB No. 6* 
+*2. Installation of extension rack in IBM Frame 2 ( B06R03)- With new Fan Power cable connectivity from inverter 10 Phase-B MCB No. 6*
+*DOA*- 22-08-2019 00:30 hrs to 04:00 hrs. 
+*Electrical SPOC*- Rajesh(7217892156)/Afsar(7217892066) /Jitendra(7217892045). 
+*Local SPOC*- Rajnish(8384051165)/Atul(9026188493)/Navnit(9628011116)/Shashikant(9650873424)
+*Closure Date* - 22-08-2019.
+21/08/19, 9:40 pm - Vivek Sir Jio: <Media omitted>
+21/08/19, 9:40 pm - Vivek Sir Jio: <Media omitted>
+21/08/19, 9:40 pm - Vivek Sir Jio: <Media omitted>
+21/08/19, 9:40 pm - Vivek Sir Jio: <Media omitted>
+21/08/19, 9:41 pm - Vivek Sir Jio: Tonight's Activities
+22/08/19, 7:15 am - Suraj Jio New: <Media omitted>
+22/08/19, 7:18 am - Nikhil😎: Subscriber balance files and Subsciber  Dump files have  trasferred to RAFM for all OCS zones
+22/08/19, 12:12 pm - Kintu Khamar: IDFC P1 file received with 2 records and processed successfully from PMZ.
+22/08/19, 7:35 pm - Vivek Sir Jio: DL0: *INTERINSTANCE COMMUNICATION ERROR* observed 
+Count :- 1
+22/08/19, 9:02 pm - Vivek Sir Jio: <Media omitted>
+23/08/19, 1:14 am - +91 96899 56477: Activity for resetting of  the sequence value of 'maxvalue' of tables to new value || DCWI 1193061,1193063 under BCR31280 has been completed in Estel RJIL (All zones) & RJML. Sanity done.
+23/08/19, 1:37 am - Nikhil😎: We are observing Intermittent Network fluctuation in CC Webservice calls for DL0 OCS Since 01:29:00 AM
+23/08/19, 2:25 am - +91 96899 56477: Emergency Activity in Estel Replica (RJIL & RJML) for RR 1196601,1196764 || Defect 1196558 - Margin issue in POS GT Recharges for Paytm mode of payment under BCR31517 is completed. Basic Sanity done.
+23/08/19, 4:14 am - Nikhil😎: Subscriber balance files and Subsciber  Dump files have  trasferred to RAFM for all OCS zones
+23/08/19, 6:38 am - Nikhil😎: <Media omitted>
+23/08/19, 12:05 pm - Surinder Singh: We are receiving "Agent client not found" error for Jio phone exchange" commission requests around 70 cases failed  till now. Transaction failed due to incorrect routing.
+23/08/19, 12:06 pm - Surinder Singh: Transaction are failing intermittently
+23/08/19, 9:38 pm - Vivek Sir Jio: <Media omitted>
+23/08/19, 9:38 pm - Vivek Sir Jio: <Media omitted>
+23/08/19, 9:38 pm - Vivek Sir Jio: <Media omitted>
+23/08/19, 11:02 pm - Vivek Sir Jio: Tonight's Activities
+24/08/19, 1:53 am - Prasana Sahstra Budhe: Subscriber balance files and Subsciber  Dump files have  trasferred to RAFM for all OCS zones
+24/08/19, 11:29 am - +91 77382 83796: Bhamasha request failed at ESTEL TPA platform due to circle id tag missing in request through TIBCO . Total failure count 9. Esclated to TIBCO n IM team.
+26/08/19, 1:11 am - Prasana Sahstra Budhe: In WB0, Observed timeout and interinstance communication failure due to planned activity BCR30494
+26/08/19, 1:25 am - Prasana Sahstra Budhe: Now observed time and interinstance error due to same planned activity BCR30494 in TS0
+26/08/19, 3:51 am - Prasana Sahstra Budhe: Subscriber balance files and Subsciber  Dump files have  trasferred to RAFM for all OCS zones
+26/08/19, 7:18 am - Abhishek D Singh: BCR30494(AIX OS and VIOS adapter upgrade)  is scheduled for TS0,WB0 PROD and MH1,DL0 DR database servers..as of now it is completed in prod and MH1 dr..
+26/08/19, 7:20 am - Abhishek D Singh: Still Sapcc DL0 DR DB is not accessible, DBA team is facing some issue to start database.
+26/08/19, 7:21 am - Abhishek D Singh: Due to this DL0 nonmon dump not generated yet..DBA team is looking into this issue .
+26/08/19, 7:35 am - Kuber Sir Jio: <Media omitted>
+26/08/19, 7:35 am - Kuber Sir Jio: Application Leads please join above call.
+26/08/19, 10:36 am - Vidhi Arora Jio: What is the status now?
+26/08/19, 10:37 am - Anagha Narkar: Nonmon dump generated and successfully transferred to BI path
+26/08/19, 5:21 pm - Kintu Khamar: Special characters coming in calling number from CTAS IPSM GUJ circle files. 12 files impacted. Sev2 raised.
+26/08/19, 9:37 pm - Vivek Sir Jio: <Media omitted>
+26/08/19, 9:37 pm - Vivek Sir Jio: <Media omitted>
+26/08/19, 9:37 pm - Vivek Sir Jio: Tonight's Activities
+26/08/19, 9:37 pm - Vivek Sir Jio: <Media omitted>
+27/08/19, 1:02 am - Abhishek D Singh: BCR31583- active mz -OTM wf code is not able to handle files with CTAS naming convention-- Completed in MH0 and WB0 zone.
+27/08/19, 1:11 am - Vivek Sir Jio: ISO TOPS: PE (BCR31200) Notification : BAVA on SAP-CC And Online/Passive Mediation-PROD Rater Servers (Non Service Affecting), Activity is kept on hold till 2nd Sept.
+27/08/19, 2:23 am - mayur pawar jio: *Subscriber balance* files and *Subsciber  Dump* files have  trasferred to RAFM for all OCS zones.
+27/08/19, 2:41 am - mayur pawar jio: *BCR31091*:- DCWI: 1186858
+Active Mediation || Prod || Message type Persistent/ Non persistent 
+:- *KA0* : 
+*Activity completed successfully @ CC end*
+27/08/19, 3:52 am - Abhishek D Singh: BCR31584 :RR1193306:SAPCC:RJIL release for production defect fixes is deployed successfully in TS0 OCS.Sanity done and not found any abnormality till now.
+27/08/19, 10:56 am - Vidhi Arora Jio: Vivek: pl publish the status of shift toaster for all app leads
+27/08/19, 10:59 am - Vivek Sir Jio: Yes Sir
+27/08/19, 7:42 pm - Vivek Sir Jio: Roster Status:
+
+OCS......Done
+ESTEL...Done
+PMZ......Done
+CG........Done
+SE.........Done
+SECO......in progress
+IDAM.....in progress
+27/08/19, 9:38 pm - Vivek Sir Jio: <Media omitted>
+27/08/19, 9:38 pm - Vivek Sir Jio: <Media omitted>
+27/08/19, 9:38 pm - Vivek Sir Jio: Tonight's Activities
+28/08/19, 12:43 am - Abhishek D Singh: BCR31583- RR1192306-active mz -OTM wf code is not able to handle files with CTAS naming convention-- Completed in KA0 and DL0 zone.
+28/08/19, 2:56 am - mayur pawar jio: *BCR31670*:- DCWI: 1186858
+Active Mediation || Prod || Message type Persistent/ Non persistent 
+:- *MH2* : 
+*Activity completed successfully @ CC end*
+28/08/19, 3:18 am - mayur pawar jio: *Subscriber balance* files and *Subsciber  Dump* files have  trasferred to RAFM for all OCS zones.
+28/08/19, 3:54 am - Abhishek D Singh: BCR31584 :RR1193306:SAPCC:RJIL release for production defect fixes is deployed successfully in TS1 OCS.Sanity done and not found any abnormality till now.
+28/08/19, 9:57 pm - Vivek Sir Jio: <Media omitted>
+28/08/19, 9:57 pm - Vivek Sir Jio: <Media omitted>
+28/08/19, 9:57 pm - Vivek Sir Jio: <Media omitted>
+28/08/19, 9:58 pm - Vivek Sir Jio: Tonight's Activities
+28/08/19, 10:00 pm - Amit Tripathi: Bridge ID created by NOC team where all key stake holders need to join as discussed for TOR upgrade activity in UP0 and WB0
+
+*Dialing Number:- *+912279687555 
+*conf Id:-* 68267988
+28/08/19, 10:01 pm - Amit Tripathi: @Abhishek.. Pl join bridge during TOR upgrade activity in UP0nd WB0 OCS.
+28/08/19, 10:01 pm - Abhishek D Singh: Ok Sir
+29/08/19, 1:08 am - mayur pawar jio: *BCR31583* - RR1192306 -
+Active mz -OTM wf code is not able to handle files with CTAS naming convention-- 
+Completed in *TS0 and MH1* zone.
+29/08/19, 1:24 am - mayur pawar jio: This message was deleted
+29/08/19, 1:24 am - mayur pawar jio: In *WB0* , spike of *Timeout and interinstance observed* due to planned activity.
+ *BCR31831* :- Prod  TOR Nexus 9396PX IOS version upgrade activity at network end.
+29/08/19, 1:36 am - mayur pawar jio: Again In *WB0* , spike of *Timeout and interinstance observed* due to planned activity.
+29/08/19, 1:58 am - mayur pawar jio: *WB0* *BCR31831* :- Prod  TOR Nexus 9396PX IOS version upgrade activity:- 
+No timeout observed after *1:38 am* 
+*Activity completed*
+29/08/19, 2:04 am - Abhishek D Singh: Observed timeout in UP0 due to BCR31831
+29/08/19, 2:21 am - mayur pawar jio: Again In *UP0* , spike of *Timeout and interinstance observed* due to planned activity.
+29/08/19, 2:34 am - mayur pawar jio: *UP0* *BCR31831* :- Prod  TOR Nexus 9396PX IOS version upgrade activity:- 
+No timeout observed after *02:23 am* 
+*Activity completed*
+29/08/19, 3:09 am - Abhishek D Singh: BCR31729:DCWI 117003:active mediation: Configuration of new JMS queue completed successfully in UP0.. No abnormality found post sanity.
+29/08/19, 3:58 am - mayur pawar jio: *BCR31584* : RR1193306:SAPCC:RJIL release for production defect fixes is deployed successfully in *WB0* OCS.
+*Sanity done and not found any abnormality till now*
+29/08/19, 5:55 am - mayur pawar jio: We are *Observing fluctuations* in incoming throughput and PGW graph for *WB0* and *UP0* ocs zones.
+29/08/19, 5:56 am - mayur pawar jio: Informed to *IP Team* & *HSI NOC*
+29/08/19, 4:37 pm - Vivek Sir Jio: Sir, all app leads shift roster has been been published on Jio portal.
+29/08/19, 5:13 pm - Vidhi Arora Jio: Good
+29/08/19, 8:44 pm - +91 83693 53066: 50% dip observe for channel 25 checking with saso team.
+29/08/19, 9:29 pm - Vivek Sir Jio: <Media omitted>
+29/08/19, 9:30 pm - Vivek Sir Jio: <Media omitted>
+29/08/19, 9:30 pm - Vivek Sir Jio: Tonight's Activities
+29/08/19, 9:32 pm - +91 83693 53066: Issue at jio saavn.sev 2 raised
+29/08/19, 9:32 pm - +91 83693 53066: Pradeep neela is cordinating with saavn team
+30/08/19, 1:53 am - +91 77188 18595: BCR31511 - IDAM Configuration Change to enable online migration from OID to Cassandra is completed and app is working fine.
+30/08/19, 1:54 am - +91 77188 18595: 36K customers are migrated to Cassandra.
+30/08/19, 1:54 am - +91 77188 18595: <Media omitted>
+30/08/19, 2:02 am - mayur pawar jio: *BCR31583* - RR1192306 -
+Active mz -OTM wf code is not able to handle files with CTAS naming convention-- 
+Completed in *MH2 and WB1* zone.
+30/08/19, 2:30 am - mayur pawar jio: *Subscriber balance* files and *Subsciber  Dump* files have  trasferred to RAFM for all OCS zones.
+30/08/19, 6:16 am - mayur pawar jio: In *UP0* , spike of *Timeout and interinstance observed* due to planned activity.
+ *BCR31804* :-for IBM SVC storage SFP & server cable/SFP Replacement at lucknow Prod.
+
+Same has been informed to *storage team*
+30/08/19, 6:18 am - mayur pawar jio: High DB response also observed for same after activity completion same informed to storage team
+30/08/19, 6:45 am - +91 84339 11548: Pl call
+30/08/19, 6:46 am - mayur pawar jio: *UP0* :- Option 4 Log SVC collection started by storage team.
+30/08/19, 6:46 am - mayur pawar jio: Yes Sir
+30/08/19, 7:07 am - mayur pawar jio: *BCR31584* : RR1193306:SAPCC:RJIL release for production defect fixes is deployed successfully in *WB1* OCS.
+*Sanity done and not found any abnormality till now*
+30/08/19, 9:09 am - +91 77188 18595: <Media omitted>
+30/08/19, 5:28 pm - +91 77188 18595: <Media omitted>
+30/08/19, 5:29 pm - +91 77188 18595: 1.36million customers migrated to Cassandra
+30/08/19, 9:27 pm - Vivek Sir Jio: <Media omitted>
+30/08/19, 9:29 pm - Vivek Sir Jio: <Media omitted>
+30/08/19, 9:30 pm - Vivek Sir Jio: <Media omitted>
+30/08/19, 9:30 pm - Vivek Sir Jio: Planned Activities
+30/08/19, 11:24 pm - Kuber Sir Jio: Please confirm status of Replica Emergency RR deployment
+30/08/19, 11:27 pm - +91 99583 84567: RR1199060, Replica: MZ PGW changes to support Policy Trigger in case of Post Suspension event call has been completed.
+31/08/19, 12:31 am - mayur pawar jio: *BCR31583* - RR1192306 -
+Active MZ -OTM wf code is not able to handle files with CTAS naming convention-- 
+Completed in *GJ0 and TS1* zone.
+31/08/19, 4:50 am - mayur pawar jio: *Subscriber balance* files and *Subsciber  Dump* files have  trasferred to RAFM for all OCS zones.
+31/08/19, 7:25 am - mayur pawar jio: *BCR31584* : RR1193306:SAPCC:RJIL release for production defect fixes is deployed successfully in *MH1* OCS.
+*Sanity done and not found any abnormality till now*
+31/08/19, 7:31 am - mayur pawar jio: *BCR31939* : CTAS source OTM voice usage CDR files Transfer to online MZ.
+Activity completed in *ALL OCS ZONES*
+31/08/19, 2:22 pm - +91 83693 53066: Dip in channel 94, 95 and 96. cordinating with noc team.
+Raising sev2 for same
+31/08/19, 5:25 pm - Abhishek D Singh: We are getting multiple alert of host not reachable for WB0 and WB1 OCS..approx 1200 transactions failed till now.
+31/08/19, 5:26 pm - Abhishek D Singh: Also not able to login in MZ GUI of both zones
+31/08/19, 5:49 pm - Surinder Singh: More than 2000 transactions failed at Estel with unmapped error for East circle
+31/08/19, 5:53 pm - Abhishek D Singh: <Media omitted>
+31/08/19, 6:31 pm - Vivek Sir Jio added +98 910 892 5013
+31/08/19, 6:39 pm - Manish Srivastava jio left
+31/08/19, 7:03 pm - +98 910 892 5013: Hi all below is the current status on wb0 issue
+31/08/19, 7:03 pm - +98 910 892 5013: Currently we are able to login to mz gui
+31/08/19, 7:04 pm - +98 910 892 5013: Wb1 gui login  also working
+31/08/19, 7:04 pm - Surinder Singh: No failure observed post 6.52pm. Around 6k transactions were failed
+31/08/19, 7:06 pm - Abhishek D Singh: Checked system logs and not found any abnormality after 06:52 pm for Wb0 and WB1 OCS
+31/08/19, 7:07 pm - Abhishek D Singh: Still system is under observation,will update in case of any abnormality
+31/08/19, 7:28 pm - +91 77188 18595: NE Mumbai and Nagpur and Hotel WiFi KOLKATTA connectivity restored.
+Notifications Pendency is there in KOL U2C. suppressed 50 % vernacular templates to clear the pendency.
+31/08/19, 8:47 pm - +91 77188 18595: Pendency cleared and templates been enabled
+01/09/19, 3:51 pm - Om Prakash Singh: <Media omitted>
+01/09/19, 6:15 pm - Kintu Khamar: RCC Files backlog observed for DL0, UP0, WB0 and WB1 zones. Total files backlog 8k. Raising severity. Impact : Delay in showing last 25 transaction and recharge display.
+01/09/19, 8:35 pm - Kintu Khamar: Current backlog 10k. DBA, Storage,Unix and Basis team all are on call to investigate issue.
+01/09/19, 8:41 pm - +91 84339 11548: Put on techops
+01/09/19, 9:18 pm - Kintu Khamar: Ok Sir
+01/09/19, 10:04 pm - +91 84339 11548: Any resolution / workaround??
+01/09/19, 10:05 pm - Kintu Khamar: Sir, restarting EC and monitoring performance.
+01/09/19, 10:06 pm - Kintu Khamar: <Media omitted>
+01/09/19, 10:06 pm - Kintu Khamar: Highest backlog in DL0 5k. Oldest file 7.15 pm.
+02/09/19, 12:37 am - Kintu Khamar: Backlog reducing now for all zones.
+02/09/19, 12:42 am - Nikhil😎: Timeout and Interinstances observed in WB0 and TS0 zone due to Planned Activity(BCR30494)
+02/09/19, 2:18 am - Nikhil😎: *Subscriber balance* files and *Subsciber  Dump* files have  trasferred to RAFM for all OCS zones.
+02/09/19, 6:47 am - Kintu Khamar: Backlog cleared for all zones except WB0.
+02/09/19, 7:20 am - +91 84339 11548: Do we know the reason ?
+02/09/19, 7:42 am - Kintu Khamar: Backlog cleared for all zones.
+02/09/19, 7:44 am - Kintu Khamar: Due to timeout occoured in night thousands of zero bytes files created.
+03/09/19, 12:56 am - Arbvind: Sev 2 BIM10339147 raised on CTAS for RCC file stuck in backlog for MH2 zone.
+03/09/19, 1:06 am - +91 83693 53066: <Media omitted>
+03/09/19, 1:15 am - Nikhil😎: We observed Timeout in DL0 zone with max count 23  and Inter instances with max count 9 @12:57:00 AM
+03/09/19, 2:32 am - Arbvind: All problematic files has been processed..
+03/09/19, 2:36 am - +91 83693 53066: Request dipped from channel_id 94,96,92,25 due to fttx deployment activity at tibco end.
+03/09/19, 2:45 am - +91 83693 53066: Sev raised
+03/09/19, 3:06 am - Nikhil😎: *Subscriber balance* files and *Subsciber  Dump* files have  trasferred to RAFM for all OCS zones.
+03/09/19, 3:08 am - +91 83693 53066: Start receiving the request from all the channels.and sev 2 kept under observation.
+03/09/19, 5:17 am - Surinder Singh: Master CR 32019- Estel update:-  
+Deployment completed for TPA and RJML zone,  basic sanity is in progress.
+03/09/19, 7:26 am - Nikhil😎: *BCR31584* : RR1193306:SAPCC:RJIL release for production defect fixes is deployed successfully in *MH2* OCS.
+*Sanity done and not found any abnormality till now*
+03/09/19, 7:55 am - +91 83693 53066: Pmz getting the jco connection exception for CI RS2 .basis team is looking into it.
+Added in sev 2.
+03/09/19, 6:29 pm - +91 83693 53066: Dip observe for channel 25 ,checking with sasomedia team.
+03/09/19, 9:24 pm - Vivek Sir Jio: <Media omitted>
+03/09/19, 9:24 pm - Vivek Sir Jio: <Media omitted>
+03/09/19, 9:24 pm - Vivek Sir Jio: Tonight's Activities
+04/09/19, 4:23 am - Nikhil😎: *BCR31584* : RR1193306:SAPCC:RJIL release for production defect fixes is deployed successfully in *DL0* OCS.
+*Sanity done and not found any abnormality till now*
+04/09/19, 5:07 am - Surinder Singh: Deployment completed for West and East zone, basic sanity has been done.
+04/09/19, 10:26 am - Kuber Sir Jio: Whoever Citrix user is still getting delay in first time  Citrix login , please flag off the issue?...As per Citrix Team this highlighted issue is resolved.
+04/09/19, 8:51 pm - Vivek Sir Jio: <Media omitted>
+04/09/19, 8:51 pm - Vivek Sir Jio: <Media omitted>
+05/09/19, 4:58 am - Nikhil😎: *BCR31584* : RR1193306:SAPCC:RJIL release for production defect fixes is deployed successfully in *GJ0* OCS.
+*Sanity done and not found any abnormality till now*
+05/09/19, 5:01 am - Surinder Singh: Master CR 32019- Estel update:-  
+Deployment completed for North, South and SPOS zone. sanity is in progress.
+05/09/19, 10:06 am - Vidhi Arora Jio: Ananad and Kintu: data validation is to be done today for PmZ and SE on NGO portal.
+05/09/19, 11:06 am - +91 83693 53066: Ok
+05/09/19, 11:08 am - Kintu Khamar: Ok Sir
+05/09/19, 9:19 pm - Vivek Sir Jio: <Media omitted>
+05/09/19, 9:22 pm - Vivek Sir Jio: <Media omitted>
+06/09/19, 9:25 pm - Vivek Sir Jio: <Media omitted>
+06/09/19, 9:25 pm - Vivek Sir Jio: <Media omitted>
+06/09/19, 9:25 pm - Vivek Sir Jio: Tonight's Activities
+06/09/19, 11:29 pm - +91 77188 18595: Cassandra Datastore DB 10.141.97.14 server is down not reachable.
+No impact observed on app.
+Unix/HP Team is checking on restoration of server.
+06/09/19, 11:34 pm - +91 84339 11548: Raise severity
+06/09/19, 11:37 pm - +91 77188 18595: Ok sir
+07/09/19, 12:14 am - +91 77188 18595: Severity Raised
+
+ISO TOPS: EA (I/U) IN RJIL Awaited S2 00:05 Hrs.
+
+PRB: One out of 18 Cassandra DB node not reachable for IDAM application.
+
+IMP: No Business Impact as traffic is serving by remaining nodes.
+
+UPD: Issue is due to hardware failure. Tops Unix team is coordinating with HP support team to replace faulty hardware.
+
+NU: 04:00 Hrs.
+07/09/19, 3:12 am - Nikhil😎: Interinstances communication failure observed on MH0 zone @03:03:15AM
+07/09/19, 3:13 am - Nikhil😎: Observed High Full GC Triggerred at the same Time on rater#5 with max  time 22 Sec.
+07/09/19, 3:57 am - Nikhil😎: *BCR31584* : RR1193306:SAPCC:RJIL release for production defect fixes is deployed successfully in *UP0* OCS.
+*Sanity done and not found any abnormality till now*
+07/09/19, 7:38 am - Surinder Singh: Estel update:- ECR 32414 has been deployed in North and RJML production, against the defect 1200557.
+07/09/19, 7:59 am - Vidhi Arora Jio: Ok
+07/09/19, 8:18 am - +91 77188 18595: Hardware issue was resolved and dB node was started at 3am
+07/09/19, 1:40 pm - +91 77188 18595: NE Pendency alert received. 
+Checked KOLKATTA SMSC providing high response time.
+Informed VVM and warroom and removing kolkatta accounts from O2A and critical notifications.
+07/09/19, 2:26 pm - +91 77188 18595: JioMoney IDAM hogging threads alerts received.
+Checking with Weblogic DB team
+07/09/19, 4:18 pm - +91 77188 18595: Issue resolved app is working on one DB Node
+08/09/19, 1:47 am - Gautam Londe: *Subscriber balance* files and *Subsciber  Dump* files have  trasferred to RAFM for all OCS zones.
+08/09/19, 3:53 am - Gautam Londe: Timeout and Interinstances observed in GJ0 zone due to Planned Activity(BCR31200)
+08/09/19, 9:06 am - Kuber Sir Jio: <Media omitted>
+08/09/19, 10:00 am - +91 77188 18595: Kolkatta SMSC issue was resolved at 10pm yesterday. 
+One MNP node in smsc was having high CPU utilisation and was removed from cluster by VVMNOC
+08/09/19, 8:20 pm - +91 77188 18595: JM IDAM JCR27538 Veritas upgrade service impacting change is planned tonight.
+08/09/19, 10:42 pm - Gautam Londe: We have observed server timeout with max count 777 on rater 27 along with inter instance communication error
+08/09/19, 10:44 pm - Gautam Londe: Issue was due to one subscriber is having 644 session, which was causing the timeout
+09/09/19, 12:54 am - Gautam Londe: Due to planned activity( UP0 prod svc cable SFP replacement activity --BCR 32187) we have observed server timeout and inter-instance communication error
+09/09/19, 12:56 am - Gautam Londe: Due to planned activity( SAS cable replacement activity on TS0 DB03/04--BCR 32237) we have observed server timeout and inter-instance communication error
+09/09/19, 1:53 am - Gautam Londe: *Subscriber balance* files and *Subsciber  Dump* files have  trasferred to RAFM for all OCS zones.
+09/09/19, 3:34 am - Gautam Londe: We have observed inter instance communication error with max count 412 on dispatcher#2 for WB1 OCS .
+09/09/19, 7:14 am - +91 77188 18595: Activity completed and services were brought up on problematic node after upgrade @1:10 AM
+09/09/19, 7:17 am - +91 84339 11548: Ok good
+09/09/19, 7:16 pm - Vivek Sir Jio: <Media omitted>
+09/09/19, 9:47 pm - Vivek Sir Jio: <Media omitted>
+09/09/19, 9:47 pm - Vivek Sir Jio: <Media omitted>
+09/09/19, 9:47 pm - Vivek Sir Jio: Tonight's Activities
+10/09/19, 2:30 am - Gautam Londe: *Subscriber balance* files and *Subsciber  Dump* files have  trasferred to RAFM for all OCS zones.
+10/09/19, 11:32 am - Anagha Narkar: Timeout & inter instance communication error observed with max value of 13.65 k on multiple raters & dispatchers in WB1 @ 11.20 AM
+10/09/19, 11:37 am - Vivek Sir Jio: one of the svc port error reported on switch side for wb1  Will perform analysis and fix issue
+10/09/19, 11:50 am - +91 96899 56477: Total 451 transactions went into pending status due ti Timeout at WB1. All are retried successfully.
+10/09/19, 9:30 pm - Vivek Sir Jio: <Media omitted>
+10/09/19, 9:30 pm - Vivek Sir Jio: <Media omitted>
+10/09/19, 9:30 pm - Vivek Sir Jio: Tonight's Activities
+11/09/19, 2:18 am - mayur pawar jio: *Subscriber balance* files and *Subsciber  Dump* files have  trasferred to RAFM for all OCS zones.
+11/09/19, 2:25 am - mayur pawar jio: *BCR32393*:- *TS1* — 
+PROD RR 1199487 : Active MZ : MZ PGW Changes to support policy trigger in case of post suspension event call = 
+*Activity completed successfully*
+11/09/19, 8:17 am - Rupesh Mote: Many Many happy returns of the day Vidhi Sir 🎂🎂🥳🥳 Happiest Birthday 🎂
+11/09/19, 8:20 am - mayur pawar jio: HAPPY BIRTHDAY *VIDHI SIR*
+🎂🎂🎂🎂🎂🎂🎂🎂🎂🎂
+11/09/19, 8:21 am - Arbvind: Many many happy returns of the day Vidhi sir...🎂🎂🎂🎂
+11/09/19, 8:23 am - +91 83693 53066: Happy Birthday Vidhi 🙂
+11/09/19, 8:23 am - Prasant Sir Whatsup: Happy birthday Vidhi sir🎂🎂
+11/09/19, 8:40 am - Rajesh Karnati Jio: Happy Birthday Vidhi Sir🎉🎂🎂🎉
+11/09/19, 8:41 am - Mohit Jio: Happiest birthday Vidhi Sir...!!!
+11/09/19, 8:41 am - +91 99583 84567: Happy Bday Sir..! 🎁🎉🎁
+11/09/19, 8:52 am - Vivek Sir Jio: Happy Birthday 🎂 Vidhi Sir🎂🌹💐🌟✨🎁🎂
+11/09/19, 9:30 am - Mrudula Gadre: Happy Birthday Vidhi sir 🎉🎊
+11/09/19, 9:33 am - Amit Jio Cc: Happy Birthday Vidhi Sir..🎂💐💐💐💐
+11/09/19, 9:36 am - Kintu Khamar: Happy Birthday Vidhi Sir... 🍰🎂
+11/09/19, 9:50 am - +91 98230 06913: Happy Birthday Vidhi 🙂🎂
+11/09/19, 9:56 am - Om Prakash Singh: Happy Birthday Vidhi Sir... 🍰🎂💐🎊🎂
+11/09/19, 10:01 am - Devanand rathod: Happy birthday Sir 💐💐
+11/09/19, 10:03 am - Ankur Jio: Happy birthday Sir 💐💐
+11/09/19, 10:20 am - +91 96307 59699: Happy birthday sir 🎂🎁🎉👑🎂🎁🎉👑
+11/09/19, 10:22 am - Pradeep Jio: Happy birthday, Sir 🎂💐
+11/09/19, 10:22 am - Nikita Bullani: Happy Birthday Vidhi Sir🎂😊
+11/09/19, 10:22 am - Shakar Sir Whatsup: Wish you many more happy returns of the day Vidhi Sir.. 🎂🎉💐🎊
+11/09/19, 10:24 am - +91 77188 18595: Happy Birthday Vidhi 🎂💐
+11/09/19, 10:25 am - Vidhi Arora Jio: Thank you all for your warm wishes
+11/09/19, 10:35 am - Anagha Narkar: Happiest bday vidhi sir🎊🎂
+11/09/19, 10:41 am - +91 84337 22994: Happy birthday sir🎂🎂🎂🎂
+11/09/19, 10:58 am - Sagar Gulhanee Jio: Wish you very HAPPY BIRTHDAY Vidhi Sir
+11/09/19, 11:04 am - Nikhil Sir Jio: Many many happy returns of the day happy birthday Vidhi Sir
+11/09/19, 11:06 am - Prasana Sahstra Budhe: Happy Birthday Vidhi Sir 😇
+11/09/19, 11:06 am - Abhishek D Singh: Happy birthday Vidhi Sir 🎂😊
+11/09/19, 11:08 am - Suraj Jio New: Happy Birthday Vidhi Sir 🎉🎊🎂🎂🎁
+11/09/19, 11:09 am - Raj Jangid jio: Happy birthday Vidhi Sir 🎂🎂
+11/09/19, 11:10 am - Vidhi Arora Jio: Thank you all for your lovely wishes
+11/09/19, 11:16 am - Anand Sir New Jio: Dear Vidhiji,
+Happy Birthday.💐
+11/09/19, 11:16 am - Gautam Londe: Happy birthday Vidhi Sir 🎂🎂
+11/09/19, 12:50 pm - Sumeet Jio: Happy Birthday Vidhi Sir🎂🎂
+11/09/19, 1:06 pm - Vidhi Arora Jio: Thanks you all
+11/09/19, 2:20 pm - +91 96899 56477: Wish you many many happy returns of the day Vidhi Sir... 🎊🎉☺
+11/09/19, 3:20 pm - Vidhi Arora Jio: Thanks Ajinkya
+11/09/19, 4:00 pm - Vivek Sir Jio: WB1 OCS: Timeout occurred
+11/09/19, 4:00 pm - Vivek Sir Jio: <Media omitted>
+11/09/19, 4:02 pm - Kuber Sir Jio: No issue at storage end.
+11/09/19, 4:12 pm - Ravi khurana estel: Wish you very happy birthday Vidhi sir!!!!
+11/09/19, 4:21 pm - Vidhi Arora Jio: Thanks Ravi
+11/09/19, 9:10 pm - Vivek Sir Jio: <Media omitted>
+11/09/19, 9:10 pm - Vivek Sir Jio: <Media omitted>
+11/09/19, 9:11 pm - Vivek Sir Jio: Tonight's Activities
+12/09/19, 12:08 am - +91 77188 18595: For IDAM F5 LB firmware upgrade against ICR0008143, bridge ID 68878600 is opened
+12/09/19, 2:11 am - +91 77188 18595: Passive Standby LB upgrade completed and made it Active @1:20. During switchover timeouts were observed for 1 min and system is stable. No issue reported from any team.
+12/09/19, 2:19 am - mayur pawar jio: *Subscriber balance* files and *Subsciber  Dump* files have  trasferred to RAFM for all OCS zones.
+12/09/19, 5:15 am - mayur pawar jio: *BCR32393*:- *WB0* & *KA0* — 
+PROD RR 1199487 : Active MZ : MZ PGW Changes to support policy trigger in case of post suspension event call = 
+*Activity completed successfully*
+12/09/19, 4:21 pm - Kintu Khamar: IDFC P1 file not received due to connectivity issue at IDFC end. Raising severity.
+12/09/19, 9:26 pm - Vivek Sir Jio: <Media omitted>
+12/09/19, 9:26 pm - Vivek Sir Jio: <Media omitted>
+12/09/19, 9:26 pm - Vivek Sir Jio: Tonight's Activities
+13/09/19, 4:26 am - mayur pawar jio: *Subscriber balance* files and *Subsciber  Dump* files have  trasferred to RAFM for all OCS zones.
+13/09/19, 4:27 am - mayur pawar jio: *BCR32393*:- *DL0* & *TS0* — 
+PROD RR 1199487 : Active MZ : MZ PGW Changes to support policy trigger in case of post suspension event call = 
+*Activity completed successfully*
+13/09/19, 4:31 am - mayur pawar jio: Interinstance communication failure observed on  DL0 zone @04:18:45AM
+
+Due to *BCR32629* :-BAVA SAP CC /Mediation Production rater.
+13/09/19, 8:40 am - Vidhi Arora Jio: Your current plan TEST-Super Platinum Plan for JioFiber Service ID 400122257477 will expire on 13-Sep-19 23:00 Hrs. If you have already recharged, your new plan will get automatically activated. If you have not recharged, your services will stop working. To recharge, click https://www.jio.com/recharge_singleclick?id=planId
+13/09/19, 8:40 am - Vidhi Arora Jio: Team: above is BP sir’s connection . Pl recharge
+13/09/19, 8:41 am - Mrudula Gadre: Okay sir
+13/09/19, 8:45 am - Mrudula Gadre: Plan is attached
+13/09/19, 7:40 pm - Vivek Sir Jio: <Media omitted>
+13/09/19, 7:41 pm - Vivek Sir Jio: <Media omitted>
+13/09/19, 7:42 pm - Vivek Sir Jio: Tonight's Activities
+14/09/19, 1:40 am - Prasana Sahstra Budhe: Two spikes of Timeout (max count =8k)and interinstance error observed in WB1 zone, due to svc node 1 got rebooted ,as confirmed with storage team.
+14/09/19, 2:41 am - Prasana Sahstra Budhe: *Subscriber balance* files and *Subsciber  Dump* files have been trasferred to RAFM for all OCS zones.
+14/09/19, 4:20 am - Prasana Sahstra Budhe: Timeout and interinstance observed in DL0 zone due to planned activity BCR32629
+14/09/19, 4:21 am - Prasana Sahstra Budhe: BCR32754 - PROD Active MZ| Notification WFs restart
+changes need to be done on some notification
+templates with business corrections, has been completed in all ocs zones.
+14/09/19, 4:29 am - Abhishek D Singh: *BCR32393*:- *MH1* & *WB1* — 
+PROD RR 1199487 : Active MZ : MZ PGW Changes to support policy trigger in case of post suspension event call = 
+*Activity completed successfully*
+14/09/19, 6:08 am - Vidhi Arora Jio: @ Vidhi sir,
+Application observations have also been fixed as discussed, please let us know for any observations
+1. Port and Service monitoring for Estel, My jio and Public wifi
+2. Default selection of all IPS and log paths in log analyser
+3. All IPs shown on selection of TPA zone for Estel ( Zone mapping to be corrected by Vikash)
+4. Duplicate IPs in application deployment
+
+New requirements have been added in feature list and will be tracked separately
+14/09/19, 6:10 am - Vidhi Arora Jio: Dear Shailesh/Vikash
+
+Above message is from Renu. Based on our feedback/discussion, NGO changes are done for Estel and Public Wifi . Pl ask team to check and revert
+14/09/19, 8:46 am - +91 77382 83796: Ok. Now the ips shown in correct zone
+14/09/19, 8:54 am - Vidhi Arora Jio: Good. So can we confirm all observations closed?
+14/09/19, 8:56 am - +91 77382 83796: Remaining observation need to check.
+14/09/19, 9:10 am - Vidhi Arora Jio: Ok. Pl get it checked . We will revert back by eod today
+14/09/19, 9:14 am - +91 77382 83796: Ok sir.
+14/09/19, 11:22 am - +91 77188 18595: Ok Vidhi will check and confirm.
+14/09/19, 4:11 pm - +91 77188 18595: Hi Vidhi,
+Observations 
+1) Port monitoring not working as expected 
+2) Default ips are now auto selected however keywords entered for search are not coming in raw and parsed logs.
+
+Details shared on mail from Sabbana
+14/09/19, 6:20 pm - Vidhi Arora Jio: Thanks
+15/09/19, 2:28 am - +91 83693 53066: Dip in channel 92 raise it to selfcare, tibco team.on call with war room
+15/09/19, 2:55 am - Prasana Sahstra Budhe: *Subscriber balance* files and *Subsciber  Dump* files have been trasferred to RAFM for all OCS zones.
+15/09/19, 10:51 am - +91 84339 11548: <Media omitted>
+15/09/19, 10:52 am - +91 84339 11548: Pl check
+15/09/19, 11:07 am - +91 84339 11548: <Media omitted>
+15/09/19, 11:07 am - +91 99583 84567: Sir, recharge expired yesterday night and currently grace plan is active on this number.
+15/09/19, 11:08 am - +91 84339 11548: But he made some payment
+15/09/19, 11:08 am - +91 84339 11548: 👆pmt done. Bank stmt last entry
+15/09/19, 11:08 am - +91 84339 11548: <Media omitted>
+15/09/19, 11:10 am - +91 99583 84567: Sir, it’s prepaid number and we don’t see any transaction on this number. checking with self care team and confirm.
+15/09/19, 11:19 am - +91 84339 11548: Speak to Deepak Gupta ji
+15/09/19, 11:19 am - +91 84339 11548: Deepak Gupta SaSo.vcf (file attached)
+15/09/19, 11:20 am - +91 99583 84567: Ok Sir.
+15/09/19, 11:21 am - +91 99583 84567: <Media omitted>
+16/09/19, 12:36 am - Prasana Sahstra Budhe: Observed timeout in DL0 and TS1, Due to planned activity, BCR309494 - AIX OS and VIOS Adapter FW Upgrade on PROD DB SAPCC
+16/09/19, 1:42 am - +98 910 892 5013: Observed timeout in WB1 zone -SAPCC seems to be storage related issue we are checking with unix and dba team.
+16/09/19, 1:43 am - +98 910 892 5013: as well as we r checking with storage team
+16/09/19, 2:25 am - +98 910 892 5013: Hi all as per our checking with unix team -4FCS path was degreaded and recovered on 4-db node , so same has been raised to the storage team
+16/09/19, 2:46 am - +98 910 892 5013: We got confirmation from storage team 4nodes got rebooted during that time.As per storage team they raised further for IBM recommendation
+16/09/19, 4:18 am - Prasana Sahstra Budhe: *Subscriber balance* files and *Subsciber  Dump* files have been trasferred to RAFM for all OCS zones.
+16/09/19, 4:48 am - Prasana Sahstra Budhe: Observed timeout in DL0 and TS1, Due to planned activity, BCR309494 - AIX OS and VIOS Adapter FW Upgrade on PROD DB SAPCC,
+As DBA team, starting the DB nodes now.
+16/09/19, 2:33 pm - Vivek Sir Jio: DL0 Timeout occurred on multiple Rater
+Checking with Storage team
+16/09/19, 2:34 pm - Vivek Sir Jio: <Media omitted>
+16/09/19, 2:49 pm - Prasant Sir Whatsup: Spike in response time observed at storage end.. Exact RCA pending with storage team
+16/09/19, 2:49 pm - Prasant Sir Whatsup: Storage team collecting option-4 logs now
+16/09/19, 7:32 pm - Vivek Sir Jio: DL0 Timeout : Storage team is still finding the cause.
+16/09/19, 9:52 pm - Vivek Sir Jio: <Media omitted>
+16/09/19, 9:52 pm - Vivek Sir Jio: <Media omitted>
+16/09/19, 9:55 pm - Vivek Sir Jio: <Media omitted>
+16/09/19, 9:58 pm - Vivek Sir Jio: So timeout may be observed during this activity.
+16/09/19, 10:33 pm - Vidhi Arora Jio: Estel data needed by tomorrow afternoon to send back to audit team..
+16/09/19, 10:34 pm - Vidhi Arora Jio: Vikas: above message is from Indranil chattered for application audit
+16/09/19, 11:43 pm - Gautam Londe: Timeout observed for DL0 zone
+17/09/19, 1:45 am - Gautam Londe: WB1 Timeout occurred on multiple Rater
+Checking with Storage team
+17/09/19, 1:56 am - Gautam Londe: In wb1 prod one out of 4 SVC node got rebooted .. Presently everything came back to normal
+17/09/19, 3:51 am - Gautam Londe: *Subscriber balance* files and *Subsciber  Dump* files have been trasferred to RAFM for all OCS zones.
+17/09/19, 5:36 am - Gautam Londe: <Media omitted>
+17/09/19, 9:11 am - +91 98814 72334: <Media omitted>
+17/09/19, 9:16 am - +91 98814 72334: Plan Rs 10 topup 1006570..
+17/09/19, 9:17 am - Mrudula Gadre: <Media omitted>
+17/09/19, 10:33 am - Vidhi Arora Jio: Amit: infra plans to do SVC upgrade in Wb1 today. This required invoking DR
+17/09/19, 10:36 am - Vidhi Arora Jio: Pl check from network and all applications
+17/09/19, 10:44 am - Amit Tripathi: Ok sir
+17/09/19, 3:51 pm - Vivek Sir Jio: Dear All - we may have high profile visit at TC30 any moment from now. You all are requested to have clean desk..... move you bags, lunch boxes etc in your drawers.
+17/09/19, 9:01 pm - Vivek Sir Jio: <Media omitted>
+18/09/19, 2:04 am - Gautam Londe: WB1 Timeout occurred on multiple Rater
+Checking with Storage team
+18/09/19, 2:32 am - Gautam Londe: In wb1 prod one out of 4 SVC node got rebooted .. Presently everything came back to normal
+18/09/19, 4:53 am - Gautam Londe: *Subscriber balance* files and *Subsciber  Dump* files have been trasferred to RAFM for all OCS zones.
+18/09/19, 8:58 pm - Vivek Sir Jio: <Media omitted>
+18/09/19, 8:58 pm - Vivek Sir Jio: <Media omitted>
+18/09/19, 8:58 pm - Vivek Sir Jio: Tonight's Activities
+19/09/19, 1:21 am - Gautam Londe: UP0 Timeout occurred on multiple Rater
+19/09/19, 1:24 am - Gautam Londe: As confirmed by storage team it was due to one flash drive failed
+19/09/19, 1:37 am - Gautam Londe: WB1 Timeout occurred on multiple Rater
+19/09/19, 4:32 am - Gautam Londe: Due to planned activity we have observed server timeout for DL0 zone (BCR32629)
+19/09/19, 5:03 pm - Vivek Sir Jio: DL0 Timeout: For one subscriber found multiple sessions.
+19/09/19, 5:04 pm - Vivek Sir Jio: Now it's stable
+19/09/19, 6:54 pm - +91 83693 53066: 50% dip observed in channel 25 for jio saavn
+19/09/19, 6:54 pm - +91 83693 53066: Raise it to saso and pradeep neela
+19/09/19, 6:56 pm - Vivek Sir Jio: DL0 OCS: Timeout occurred
+19/09/19, 6:56 pm - Vivek Sir Jio: Single rater#12
+19/09/19, 7:00 pm - +91 83693 53066: Raising sev 2. 
+Jio saavn technical team working on it.
+19/09/19, 7:02 pm - Vivek Sir Jio: High number of sessions found for a subscriber.
+19/09/19, 8:21 pm - Vivek Sir Jio: <Media omitted>
+19/09/19, 8:21 pm - Vivek Sir Jio: Tonight's Activities
+19/09/19, 11:34 pm - +91 83693 53066: Last 30 minutes trend is normal issue resolved at Jiosaavn end.
+Rca awaited.
+20/09/19, 4:38 am - mayur pawar jio: This message was deleted
+20/09/19, 8:45 pm - +98 910 892 5013: <Media omitted>
+20/09/19, 8:45 pm - +98 910 892 5013: Tonight activity message on the behalf of vivek shukla
+20/09/19, 11:22 pm - +91 83693 53066: 10.136.49.20 server down alert for SE mis server.
+No impact on live activation flow and war room reporting .
+Unix team checking.
+21/09/19, 3:01 am - mayur pawar jio: *Subscriber balance* files and *Subsciber  Dump* files have been trasferred to RAFM for all *11 OCS zones*
+21/09/19, 8:31 am - +91 83693 53066: Activity completed by Hp team
+Unix team release the server.no issue since last 1 hour.
+21/09/19, 2:33 pm - +91 77188 18595: Promotional Bangalore SMSC high response time observed. Informed VVMNOC and warroom.
+
+Impact Promotional campaigns are processed lesser
+21/09/19, 4:33 pm - +91 77188 18595: Response time of Bangalore SMSC is normal from 15:30. One of the Node of Bangalore SMSC had issue that is taken out from cluster.
+22/09/19, 6:59 am - mayur pawar jio: *Subscriber balance* files and *Subsciber  Dump* files have been trasferred to RAFM for all *11 OCS zones*
+22/09/19, 1:47 pm - Vidhi Arora Jio: Amit/Manish P/Vikas J
+
+R54 - Fttx invoice, reaction: there is Estel RR and Cc dcwi. Cc SECO is for configuration of new payment method. Change will go in KA0 tonight
+22/09/19, 1:49 pm - Amit Tripathi: Ok Sir.
+22/09/19, 1:58 pm - +91 77382 83796: Noted sir.
+23/09/19, 2:07 am - Prasana Sahstra Budhe: *Subscriber balance* files and *Subsciber  Dump* files have been trasferred to RAFM for all *11 OCS zones*
+23/09/19, 4:26 am - Prasana Sahstra Budhe: CC DCWI 1201713 has been completed in KA0, along with the basic sanity.
+23/09/19, 7:23 am - Kintu Khamar: Not able to collect files from
+Comviva SMSC KOL, BGL, MUMDR nodes. VVMNOC team is working. Sev2 raised.
+23/09/19, 10:40 am - +91 77188 18595: Promotional campaigns were impacted due to Bangalore and Kolkatta SMSC were not able to bind.
+
+Issue related to same incident updated by VVMNOC and resolved after manually assigning the VIP to DB cluster
+23/09/19, 1:41 pm - Vivek Sir Jio: <Media omitted>
+23/09/19, 6:54 pm - Kuber Sir Jio: Application Leads, please be available for Weekly call at 07:00 pm.
+23/09/19, 9:42 pm - Vivek Sir Jio: <Media omitted>
+23/09/19, 9:42 pm - Vivek Sir Jio: <Media omitted>
+23/09/19, 9:42 pm - Vivek Sir Jio: Tonight's Activities
+23/09/19, 10:11 pm - Vivek Sir Jio: Master CR:  BCR33382
+Impacted Application- ESTEL TPA & RJML
+
+And SAP CC-KA0
+24/09/19, 7:02 am - Surinder Singh: Deployment for Estel Tpa and RJML zone is completed, Basic sanity done.
+24/09/19, 8:03 am - Prasana Sahstra Budhe: *Subscriber balance* files and *Subsciber  Dump* files have been trasferred to RAFM for all *11 OCS zones*
+24/09/19, 9:14 am - +91 77188 18595: JioNet Public Wifi Portal not reachable from Mumbai locations reported. Informed warroom and NOC team.
+24/09/19, 10:06 am - +91 77188 18595: JioNet Portal Page opening now and Mumbai location traffic has increased.
+24/09/19, 10:10 am - +91 77188 18595: Issue was due to post implementation of PE by NOC IP provisioning team C1656200. Post rollback issue resolved.
+24/09/19, 8:56 pm - Vivek Sir Jio: <Media omitted>
+24/09/19, 9:14 pm - Vivek Sir Jio: <Media omitted>
+25/09/19, 2:02 am - Prasana Sahstra Budhe: This message was deleted
+25/09/19, 2:29 am - Prasana Sahstra Budhe: Timeout and interinstance error  observed in TS0 on ts0app03rt, as this rater host went into read only mode.
+25/09/19, 2:56 am - Prasana Sahstra Budhe: *Subscriber balance* files and *Subsciber  Dump* files have been trasferred to RAFM for all *11 OCS zones*
+25/09/19, 5:01 am - Ashutosh Jio: 23 TPA transaction failed for AP circle. All failed Transaction processed successfully post repush.
+25/09/19, 5:41 am - Ashutosh Jio: BCR 33382 - Deployment for Estel West and South zone is completed, Basic sanity done.
+25/09/19, 11:03 am - Vidhi Arora Jio: Kuber
+
+Please share consolidated audit observations for all applications . This needs to be reviewed by Manish sir. Pl take inputs from all app leads
+25/09/19, 7:52 pm - Vivek Sir Jio: <Media omitted>
+25/09/19, 9:44 pm - Vivek Sir Jio: Emergency CR : BCR33628 PROD Subscription Engine
+Mount NAS point in production FTTX
+25/09/19, 11:37 pm - +91 77188 18595: Hotel WiFi alerts received   for URL availability and high active processes informed dB team and warroom for sev2 incident.
+25/09/19, 11:46 pm - +91 77188 18595: Bridge ID 597600
+26/09/19, 3:43 am - +91 77188 18595: Wifi portal accessible for all locations since 01:25hrs post blocking Nariman point MACs by Wifi TAC team which are creating high traffic.
+
+All this devices are Hathway Hybrid Set Top boxes
+26/09/19, 5:03 am - +91 96899 56477: BCR 33382 - Deployment for Estel East and North zone is completed, Basic sanity done.
+26/09/19, 6:12 am - +98 910 892 5013: Dear all we have reported timeout at SAPCC TS0 zone to basis team ,
+26/09/19, 6:13 am - +98 910 892 5013: Email communication has been received that has cause of timeout which was due to restart of application on ts0app03rt host which went down yesterday due to read only mode
+26/09/19, 12:47 pm - Vivek Sir Jio added +91 98203 71004
+26/09/19, 4:25 pm - Vivek Sir Jio: <Media omitted>
+26/09/19, 6:25 pm - Vivek Sir Jio: <Media omitted>
+26/09/19, 6:47 pm - Vivek Sir Jio added +91 77188 63157
+26/09/19, 10:30 pm - +98 910 892 5013: Dear all, we have observed timeout in SAPCC DL0 zone at 10:40 pm , we are checking with storage team
+26/09/19, 10:35 pm - +98 910 892 5013: Timeout time was-10:15
+26/09/19, 10:36 pm - +98 910 892 5013: Storage team is checking the cause of issue
+26/09/19, 10:46 pm - +91 96899 56477: Total 282 Recharges and 11 FRC transactions went into pending due to Tineout. All are processed successfully.
+26/09/19, 10:55 pm - +98 910 892 5013: Dear all we have received the mail from storage team , root cause was one FC PORT was not operational and not coming online at that moment currently health is normal as per storage team
+27/09/19, 12:17 am - Abhishek D Singh: BCR33576|PROD|DCWI 1201713|SAPCC|CC table configuration for mode of payment completed in WB0,WB1 and GJ0.
+27/09/19, 1:15 am - +98 910 892 5013: BCR33580: this activity is ON HOLD as per discussion between CDT and our team
+27/09/19, 2:47 am - Abhishek D Singh: This message was deleted
+27/09/19, 2:47 am - Abhishek D Singh: BCR33619||replica dcwi 1204852||active mz||bava activity to upgrade Java jdk in all server- completed successfully in replica
+27/09/19, 4:55 am - +98 910 892 5013: Dear all we have observed timeout in WB0 zone at 4:47am with count 1,as per our discussion with basis team this is due to bava activity on WB0
+27/09/19, 2:16 pm - Vivek Sir Jio: <Media omitted>
+27/09/19, 7:01 pm - Vivek Sir Jio: <Media omitted>
+27/09/19, 9:57 pm - Vivek Sir Jio: <Media omitted>
+27/09/19, 9:57 pm - Vivek Sir Jio: <Media omitted>
+27/09/19, 9:57 pm - Vivek Sir Jio: Tonight's Activities
+28/09/19, 1:13 am - +98 910 892 5013: BCR33576|PROD|DCWI 1201713|SAPCC|CC table configuration for mode of payment completed in MH0,MH1 and MH2
+28/09/19, 12:30 pm - Prasana Sahstra Budhe: In DL0, We observed two spikes of timeout with count 22 and 16 on rate#13 only.
+Fetching subscriber allowance count for the same rater.
+28/09/19, 5:16 pm - +91 77382 83796: ESTEL WEB server (10.137.54.15) rebooted. Unix team checking with HP team.
+28/09/19, 5:32 pm - Prasana Sahstra Budhe: Found ffth subscribers having allowance count more than 100.On further checking found all were genuine recharges.
+28/09/19, 6:38 pm - Vidhi Arora Jio: <Media omitted>
+28/09/19, 6:38 pm - Vidhi Arora Jio: Team: pl respond to above message received I mail
+28/09/19, 6:44 pm - Rupesh Mote: Sir raised to dev , we received this in testing
+28/09/19, 8:02 pm - Rupesh Mote: Issues till now - 
+1. 
+Top-up is not getting added to CC . It's due to MZ is not teriggering top-up offer from wrapper plan 
+2.
+Upon adding top up amount on negative balance , total amount getting reset to zero 
+3. 
+Amount from queued plan top up is adding to monetary amount . Same getting used in stacked plan
+4.
+No usage difference in SOA
+5. 
+Total amount showing incorrect against free usage in SOA
+28/09/19, 8:02 pm - Rupesh Mote: Raised to Development
+28/09/19, 8:14 pm - Rupesh Mote: Zero price top-up - Applied in replica , bit validation pending ...
+29/09/19, 11:25 am - Vidhi Arora Jio: Vidhi bhai can we pls check my mobile no status for balance as last time we got it recharged twice - 9893124928
+29/09/19, 11:25 am - Vidhi Arora Jio: Team
+
+Pl check above case
+29/09/19, 11:34 am - Mrudula Gadre: Sir given number is not a jio number. Checked in novelvox/360
+29/09/19, 9:53 pm - Prasana Sahstra Budhe: This message was deleted
+29/09/19, 9:57 pm - Shakar Sir Whatsup: Connectivity through to smsc from KA0 after adding reverse route from ocs. For Other Remaining OCS zone route to be added.
+29/09/19, 9:58 pm - Shakar Sir Whatsup: Account creation at smsc may take time.. Smsc team working on the same as app and other integration pending at smsc
+29/09/19, 9:59 pm - Rupesh Mote: 👍
+30/09/19, 7:21 pm - Vivek Sir Jio: <Media omitted>
+30/09/19, 8:59 pm - Vivek Sir Jio: BCR33880 : MH0 & KA0 OCS zones
+30/09/19, 9:00 pm - Kintu Khamar: RCC backlog in MH1.  Backlog count 3k. 7pm files loading going on.
+30/09/19, 9:35 pm - Vivek Sir Jio: BCR33880: MH0/KA0 OCS zones 
+Activity is postponed.
+30/09/19, 10:40 pm - Vivek Sir Jio: <Media omitted>
+01/10/19, 2:03 am - Kintu Khamar: Backlog count 5k.  Raising sev2.
+01/10/19, 3:27 am - +91 84337 22994: Timeout  and inter-instance error oberved on MH0 for rater-6. We have asked basis team for partition-ids for this rater
+01/10/19, 3:28 am - +91 84337 22994: Maxcount-46
+01/10/19, 3:37 am - Kintu Khamar: Backlog started reducing due to less incoming traffic. Still per file processing taking 5-6sec instead of 2 secs. DBA,unix,basis, storage team are on call...
+01/10/19, 7:06 am - Kintu Khamar: Still 5k backlog is there... no observation found at DBA, OS end. Taking ISV team on call...
+01/10/19, 7:26 am - Kintu Khamar: 1. Increased EC memory from 1 to 3 GB.
+2. Also creating additional workflow to clear backlog.
+01/10/19, 9:18 am - Kintu Khamar: Moved 5k backlog in additional wf to process. It will be clear in next 3 hrs. No backlog in original wf.
+01/10/19, 7:46 pm - +91 96899 56477: Around 3385 Transactions failed with Insufficient Wallet as Euronet Agent exhausted with wallet balance.
+Euronet has closed the pipe.
+Current Bal : 7
+01/10/19, 9:48 pm - Vivek Sir Jio: <Media omitted>
+01/10/19, 9:48 pm - Vivek Sir Jio: <Media omitted>
+01/10/19, 9:48 pm - Vivek Sir Jio: Tonight's  Activities
+01/10/19, 9:49 pm - +91 96899 56477: Waalet Topup done on Euronet Agent. Transaction is coming from this agent and gettign success.
+02/10/19, 4:56 am - Ashutosh Jio: Rollback of RR #1205679|1205678 completed in RJML, TPA and South zone.
+Transaction are getting processed successfully.
+Sanity done.
+02/10/19, 5:05 am - Arbvind: Time out in ts1 zone at 3:19.single spike observed on rater 12 with Max count 1..
+02/10/19, 5:40 am - Arbvind: Sap CC RJIL release for production defects Activity  completed in KAO...
+02/10/19, 2:14 pm - +91 77188 18595: Twitter outage is reported and agents are intermediately facing errors while responding to Twitter queries.
+
+Informed to Business Team
+
+https://api.twitterstat.us/
+02/10/19, 10:32 pm - +91 77188 18595: Twitter issue was resolved at 20:10 as posted at Twitter support site.
+03/10/19, 9:46 pm - Vivek Sir Jio: <Media omitted>
+04/10/19, 3:39 am - Gautam Londe: Due to planned activity we have observed server timeout for UP0 zone (BCR32629)
+04/10/19, 5:34 am - Gautam Londe: <Media omitted>
+04/10/19, 7:50 am - +91 98814 72334: Cc and other tops team keep sebding sync response on time there are multiple syncs.
+04/10/19, 7:50 am - +91 98814 72334: Sending
+04/10/19, 10:51 am - Vidhi Arora Jio: Kuber
+
+Pl send defect sheet and open BN for all applications in next 1 hour. Pl do not include defect which are in replica testing.
+
+All app leads
+
+Please treat this as urgent
+04/10/19, 10:53 am - Vidhi Arora Jio: Amit/Kintu
+
+Pl send revised response for Audit observations to me
+04/10/19, 10:54 am - Amit Tripathi: Ok sir
+04/10/19, 11:01 am - Kuber Sir Jio: Will update
+04/10/19, 8:27 pm - +91 77382 83796: 2nd threshold breached for TPA agent E-mitra. Current Balance: 2.89 lakh. Escalated to business.
+04/10/19, 9:02 pm - +91 96899 56477: Wallet Topup done with 24 Lacs.
+Current Bal :24 Lacs
+04/10/19, 11:12 pm - Vivek Sir Jio: <Media omitted>
+04/10/19, 11:12 pm - Vivek Sir Jio: <Media omitted>
+04/10/19, 11:12 pm - Vivek Sir Jio: <Media omitted>
+04/10/19, 11:13 pm - Vivek Sir Jio: Tonight's Activities
+05/10/19, 5:31 am - Rupesh Mote: Eocn & refill changes deployment done . 
+Tested eocn with one offnet call on test Sim n triggered properly .
+Basic sanity Looking ok . System under observation .
+05/10/19, 7:39 am - +91 99586 60079: Master release request Prod_R57:- Activity has been completed in TPA , SPOS and RJML.
+Basic sanity done.
+05/10/19, 7:56 am - +91 99583 84567: <Media omitted>
